@@ -1,4 +1,4 @@
-var express 		= require('express');
+var app 		= require('express')();
 var path			= require('path');
 var bodyParser 		= require('body-parser');
 var fs 				= require('fs');
@@ -7,7 +7,6 @@ var routes_apiv1 	= require('./routes_apiv1');
 var sql				= require('mysql');
 var AsyncPolling	= require('async-polling');
 var https			= require('https');
-var app 			= express();
 
 // 
 // Override default log to terminal and/or to file
@@ -84,11 +83,13 @@ app.all('/apiv*', function(req, res, next)
 });
 
 // Middleware statische bestanden (HTML, CSS, images)
-app.use(express.static(__dirname + '/public'));
+// app.use(express.static(__dirname + '/public'));
 
+console.log("Adding routes...");
 // Routing with versions
 app.use('/apiv1', routes_apiv1);
 // add new versions below here
+console.log("Routes added");
 
 // Start server
 var port = process.env.PORT || app.get('webPort');

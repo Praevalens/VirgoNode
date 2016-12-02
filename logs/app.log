@@ -1,0 +1,85 @@
+[December 2nd 2016, 7:01:30 pm] TypeError: Router.use() requires middleware function but got a Object
+    at Function.use (/home/node/svvirgo/node_modules/express/lib/router/index.js:458:13)
+    at EventEmitter.<anonymous> (/home/node/svvirgo/node_modules/express/lib/application.js:219:21)
+    at Array.forEach (native)
+    at EventEmitter.use (/home/node/svvirgo/node_modules/express/lib/application.js:216:7)
+    at Object.<anonymous> (/home/node/svvirgo/app.js:90:5)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+[December 2nd 2016, 7:10:06 pm] TypeError: app.use() requires middleware functions
+    at EventEmitter.use (/home/node/svvirgo/node_modules/express/lib/application.js:209:11)
+    at Object.<anonymous> (/home/node/svvirgo/app.js:90:5)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+[December 2nd 2016, 8:01:42 pm] ReferenceError: express is not defined
+    at Object.<anonymous> (/home/node/svvirgo/app.js:86:9)
+    at Module._compile (module.js:435:26)
+    at Object.Module._extensions..js (module.js:442:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:311:12)
+    at Function.Module.runMain (module.js:467:10)
+    at startup (node.js:134:18)
+    at node.js:961:3
+[December 2nd 2016, 8:02:49 pm] Adding routes...
+[December 2nd 2016, 8:02:49 pm] Routes added
+[December 2nd 2016, 8:02:50 pm] Listening server on port 8060
+[December 2nd 2016, 8:02:52 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:52 pm] getting event: 965357783609099
+[December 2nd 2016, 8:02:52 pm] getting event: 1883075698582677
+[December 2nd 2016, 8:02:52 pm] getting event: 1018603091601316
+[December 2nd 2016, 8:02:52 pm] getting event: 1147756621982849
+[December 2nd 2016, 8:02:52 pm] getting event: 1740508462880149
+[December 2nd 2016, 8:02:52 pm] getting event: 323423168049580
+[December 2nd 2016, 8:02:52 pm] getting event: 234023503666713
+[December 2nd 2016, 8:02:52 pm] getting event: 719916604813963
+[December 2nd 2016, 8:02:52 pm] getting event: 1592426097726715
+[December 2nd 2016, 8:02:53 pm] getting event: 1766293753645018
+[December 2nd 2016, 8:02:53 pm] getting event: 1662963727365113
+[December 2nd 2016, 8:02:53 pm] getting event: 134331286971200
+[December 2nd 2016, 8:02:53 pm] getting event: 1723042754600788
+[December 2nd 2016, 8:02:53 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:53 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:53 pm] getting event: 1631923933798040
+[December 2nd 2016, 8:02:53 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:53 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:53 pm] getting event: 1713663038892942
+[December 2nd 2016, 8:02:53 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:53 pm] getting event: 100226460388817
+[December 2nd 2016, 8:02:53 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:53 pm] getting event: 129425717459229
+[December 2nd 2016, 8:02:53 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:53 pm] getting event: 119055741823832
+[December 2nd 2016, 8:02:53 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:53 pm] getting event: 813612272082460
+[December 2nd 2016, 8:02:53 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:53 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:53 pm] getting event: 1734481653452697
+[December 2nd 2016, 8:02:54 pm] getting event: 969060303173562
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] getting event: 1515240438781837
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] getting event: 176100846088824
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] getting event: 1682486658666506
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] getting event: 935143496575380
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:02:54 pm] Database is connected ... nn
+[December 2nd 2016, 8:03:50 pm] Database is connected ... nn

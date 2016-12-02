@@ -1,12 +1,11 @@
 // fmon version 2 - (Mains Frequency Monitoring API)
-var express = require('express');
-var router = express.Router();
+var router = require('express').Router();
 var jwt = require('jwt-simple');
 var sql = require('mysql');
 var path = require('path');
 var settings = require('./config.json');
 
-var dbConnectionl
+var dbConnection;
 
 router.post('/activiteiten', function (req, res) {
     var update_date = req.body.update_date ||  '';
@@ -182,3 +181,5 @@ router.get('/', function (req, res) {
         "description": project_description
     });
 });
+
+module.exports = router;
