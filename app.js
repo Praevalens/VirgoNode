@@ -155,12 +155,13 @@ function checkForUpdates(eventObj){
             	var fbupdated = new Date(updated_time);
             	var dbupdated = new Date(rows[0].updated.toString());
 
+            	//console.log(fbupdated + " > " + dbupdated);
             	if (fbupdated > dbupdated){
-            		console.log("FB event is newer");
-            		updateFBEvent(eventObj.id);
+            		//console.log("FB event is newer");
+            		FBEvent(eventObj.id, true);
             	}
             } if (rows.length === 0){
-            	addFBEvent(eventObj.id);
+            	FBEvent(eventObj.id, false);
             }
             
             rows.forEach(function (row) {
@@ -174,8 +175,8 @@ function checkForUpdates(eventObj){
     }
 }
 
-function addFBEvent(facebookId){
-	console.log("getting event: " + facebookId);
+function FBEvent(facebookId, update){
+	console.log("Getting event: " + facebookId);
 
 	var options = {
 		hostname: 'graph.facebook.com',
@@ -212,11 +213,14 @@ function addFBEvent(facebookId){
 
 			if (json != undefined){
 				var eventName = sql.escape(json.name);
+				eventName = eventName.substring(1, eventName.length-1);
 				var eventStart = json.start_time;
 				var eventEnd = json.end_time;
 				var eventDescription = sql.escape(json.description);
+				eventDescription = eventDescription.substring(1, eventDescription.length-1);
 				if (json.place != undefined){
 					var eventPlace = sql.escape(json.place.name);
+					eventPlace = eventPlace.substring(1, eventPlace.length-1);
 				} else {
 					var eventPlace = "Onbekend";
 				}
@@ -226,16 +230,16 @@ function addFBEvent(facebookId){
 				//console.log("name: " + eventName + ", start: " + eventStart + ", end: " + eventEnd + ", place: " + eventPlace + ", Poster: " + eventPoster);
 				//console.log("Description: " + eventDescription);
 
-				dbConnection.query('INSERT INTO SVVirgo.activities(title, description, image, start, end, price, location, facebook) VALUES ("'+eventName+'","'+eventDescription+'","'+eventPoster+'","'+eventStart+'","'+eventEnd+'",0,"'+eventPlace+'","'+eventId+'")', function (err, result){
-					//console.log(err);
-				});
+				if (update){
+					console.log("Updating existing event: " + eventName);
+					dbConnection.query('UPDATE SVVirgo.activities SET title="'+eventName+'", description="'+eventDescription+'", image="'+eventPoster+'", start="'+eventStart+'", end="'+eventEnd+'", price=0, location="'+eventPlace+'", facebook="'+eventId+' WHERE facebook="' + facebookId + '"', function (err, result){});
+				} else {
+					console.log("Adding new event: " + eventName);
+					dbConnection.query('INSERT INTO SVVirgo.activities(title, description, image, start, end, price, location, facebook) VALUES ("'+eventName+'","'+eventDescription+'","'+eventPoster+'","'+eventStart+'","'+eventEnd+'",0,"'+eventPlace+'","'+eventId+'")', function (err, result){});
+				}
 			}
 
 			dbConnection.end();
 		})
 	}).end();
-}
-
-function updateFBEvent(facebookId){
-
 }
