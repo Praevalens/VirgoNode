@@ -141,7 +141,7 @@ AsyncPolling(function (end) {
 
 	end();
 	// This will schedule the next call.
-}, 60000).run();
+}, 1800000).run(); // check every half hour
 
 function checkForUpdates(eventObj){
 	try {
