@@ -9,8 +9,6 @@ var dbConnection;
 router.post('/activiteiten', function (req, res) {
     var update_date = req.body.update_date ||  '';
 
-    console.log("Got to the actual request");
-
     if (update_date == '') {
         console.log("Incompatible date format");
             res.status(500);
@@ -19,8 +17,6 @@ router.post('/activiteiten', function (req, res) {
                 "message": "Incompatible date format"
             });
     } else {
-
-        console.log("Got to handling the request:" + update_date);
         dbConnection = sql.createConnection({
                             host     : settings.dbHost,
                             user     : settings.dbUser,
