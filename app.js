@@ -115,9 +115,10 @@ AsyncPolling(function (end) {
 		
 		res2.on('end', function () {
 			dbConnection = sql.createConnection({
-		                            host     : settings.dbHost,
-		                            user     : settings.dbUser,
-		                            password : settings.dbPassword
+									host     : settings.dbHost,
+									user     : settings.dbUser,
+									password : settings.dbPassword,
+									dateStrings: 'date'
 		                        });
 		    dbConnection.connect(function(err){
 		            if(!err) {
@@ -194,9 +195,10 @@ function FBEvent(facebookId, update){
 		
 		res2.on('end', function () {
 			dbConnection = sql.createConnection({
-		                            host     : settings.dbHost,
-		                            user     : settings.dbUser,
-		                            password : settings.dbPassword
+									host     : settings.dbHost,
+									user     : settings.dbUser,
+									password : settings.dbPassword,
+									dateStrings: 'date'
 		                        });
 
 		    dbConnection.connect(function(err){

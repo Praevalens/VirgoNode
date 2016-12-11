@@ -80,7 +80,8 @@ router.get('/offers', function (req, res) {
     dbConnection = sql.createConnection({
                         host     : settings.dbHost,
                         user     : settings.dbUser,
-                        password : settings.dbPassword
+                        password : settings.dbPassword,
+                        dateStrings: 'date'
                     });
     dbConnection.connect(function(err){
         if(!err) {
@@ -126,7 +127,8 @@ router.get('/pubs', function (req, res) {
     dbConnection = sql.createConnection({
                         host     : settings.dbHost,
                         user     : settings.dbUser,
-                        password : settings.dbPassword
+                        password : settings.dbPassword,
+                        dateStrings: 'date'
                     });
     dbConnection.connect(function(err){
         if(!err) {
