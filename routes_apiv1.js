@@ -1,4 +1,3 @@
-// fmon version 2 - (Mains Frequency Monitoring API)
 var router = require('express').Router();
 var jwt = require('jwt-simple');
 var sql = require('mysql');
@@ -25,7 +24,8 @@ router.post('/activiteiten', function (req, res) {
         dbConnection = sql.createConnection({
                             host     : settings.dbHost,
                             user     : settings.dbUser,
-                            password : settings.dbPassword
+                            password : settings.dbPassword,
+                            dateStrings: 'date'
                         });
         dbConnection.connect(function(err){
             if(!err) {

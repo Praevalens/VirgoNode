@@ -489,3 +489,21 @@
 [December 2nd 2016, 8:50:06 pm] Database is connected ... nn
 [December 2nd 2016, 8:51:06 pm] Database is connected ... nn
 [December 2nd 2016, 8:52:06 pm] Database is connected ... nn
+[December 11th 2016, 9:05:05 pm] Adding routes...
+[December 11th 2016, 9:05:05 pm] Routes added
+[December 11th 2016, 9:05:05 pm] Listening server on port 8060
+[December 11th 2016, 9:05:06 pm] Error connecting database ... nn
+[December 11th 2016, 9:05:06 pm] Error: connect ECONNREFUSED 127.0.0.1:3306
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+    --------------------
+    at Protocol._enqueue (/Users/milanvandijck/Documents/Development/Repositories/VirgoNode/node_modules/mysql/lib/protocol/Protocol.js:141:48)
+    at Protocol.handshake (/Users/milanvandijck/Documents/Development/Repositories/VirgoNode/node_modules/mysql/lib/protocol/Protocol.js:52:41)
+    at Connection.connect (/Users/milanvandijck/Documents/Development/Repositories/VirgoNode/node_modules/mysql/lib/Connection.js:136:18)
+    at IncomingMessage.<anonymous> (/Users/milanvandijck/Documents/Development/Repositories/VirgoNode/app.js:122:20)
+    at emitNone (events.js:72:20)
+    at IncomingMessage.emit (events.js:166:7)
+    at endReadableNT (_stream_readable.js:913:12)
+    at nextTickCallbackWith2Args (node.js:442:9)
+    at process._tickCallback (node.js:356:17)
