@@ -146,7 +146,7 @@ router.get('/pubs', function (req, res) {
 
                     id: row.id.toString(),
                     name: row.name.toString(),
-                    description: row.description.toString(),
+                    openingtimes: row.openingstijden.toString(),
                     logo: row.logo.toString(),
                     location: row.location.toString(),
                     link: row.link.toString()

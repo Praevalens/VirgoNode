@@ -507,3 +507,2145 @@
     at endReadableNT (_stream_readable.js:913:12)
     at nextTickCallbackWith2Args (node.js:442:9)
     at process._tickCallback (node.js:356:17)
+[December 11th 2016, 9:15:52 pm] Adding routes...
+[December 11th 2016, 9:15:52 pm] Routes added
+[December 11th 2016, 9:15:52 pm] Listening server on port 8060
+[December 11th 2016, 9:15:52 pm] Database is connected ... nn
+[December 11th 2016, 9:21:28 pm] POST /apiv1/activiteiten
+[December 11th 2016, 9:21:28 pm] Got to the actual request
+[December 11th 2016, 9:21:28 pm] Got to handling the request:2016-12-08 21:35:0
+[December 11th 2016, 9:21:28 pm] Database is connected ... nn
+[December 11th 2016, 9:21:28 pm] Activity: Virgo Pubquiz!
+[December 11th 2016, 9:21:28 pm] Activity: Bierweek !
+[December 11th 2016, 9:21:28 pm] Activity: Nerf Gun Mania
+[December 11th 2016, 9:21:28 pm] Activity: OT feest 3: Kroegentocht
+[December 11th 2016, 9:21:28 pm] Activity: 1000 Palm 2016
+[December 11th 2016, 9:21:28 pm] Activity: Woensdagstart
+[December 11th 2016, 9:21:28 pm] Activity: Inauguratie S.V. Virgo
+[December 11th 2016, 9:21:28 pm] Activity: Donderdagstart Periode 1
+[December 11th 2016, 9:21:28 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 11th 2016, 9:21:28 pm] Activity: OT feest 2: Crazy 88
+[December 11th 2016, 9:21:28 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 11th 2016, 9:21:28 pm] Activity: Meiweek
+[December 11th 2016, 9:21:28 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 11th 2016, 9:21:28 pm] Activity: VriMiBo
+[December 11th 2016, 9:21:28 pm] Activity: Virgo karaoke avond!
+[December 11th 2016, 9:21:28 pm] Activity: Open podium & leden veiling
+[December 11th 2016, 9:21:28 pm] Activity: S.V. Virgo Cape Day
+[December 11th 2016, 9:21:28 pm] Activity: S.V. Virgo Gender In The Blender
+[December 11th 2016, 9:21:28 pm] Activity: OT feest 1: Derde Helft
+[December 11th 2016, 9:21:28 pm] Activity: Kroegenstorm S.V. Virgo
+[December 11th 2016, 9:21:28 pm] Activity: VriMiBo S.V. Virgo
+[December 11th 2016, 9:21:28 pm] Activity: Bal Masque Shots
+[December 11th 2016, 9:21:28 pm] Activity: Dinsdagstart Periode 3
+[December 11th 2016, 9:21:28 pm] Activity: Pré-carnaval SV Virgo
+[December 11th 2016, 9:21:28 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 11th 2016, 9:25:54 pm] Adding routes...
+[December 11th 2016, 9:25:54 pm] Routes added
+[December 11th 2016, 9:25:54 pm] Listening server on port 8060
+[December 11th 2016, 9:25:54 pm] Database is connected ... nn
+[December 11th 2016, 9:26:06 pm] POST /apiv1/activiteiten
+[December 11th 2016, 9:26:06 pm] Got to the actual request
+[December 11th 2016, 9:26:06 pm] Got to handling the request:2016-12-08 21:35:0
+[December 11th 2016, 9:26:06 pm] Database is connected ... nn
+[December 11th 2016, 9:26:06 pm] Activity: Virgo Pubquiz!
+[December 11th 2016, 9:26:06 pm] Activity: Bierweek !
+[December 11th 2016, 9:26:06 pm] Activity: Nerf Gun Mania
+[December 11th 2016, 9:26:06 pm] Activity: OT feest 3: Kroegentocht
+[December 11th 2016, 9:26:06 pm] Activity: 1000 Palm 2016
+[December 11th 2016, 9:26:06 pm] Activity: Woensdagstart
+[December 11th 2016, 9:26:06 pm] Activity: Inauguratie S.V. Virgo
+[December 11th 2016, 9:26:06 pm] Activity: Donderdagstart Periode 1
+[December 11th 2016, 9:26:06 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 11th 2016, 9:26:06 pm] Activity: OT feest 2: Crazy 88
+[December 11th 2016, 9:26:06 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 11th 2016, 9:26:06 pm] Activity: Meiweek
+[December 11th 2016, 9:26:06 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 11th 2016, 9:26:06 pm] Activity: VriMiBo
+[December 11th 2016, 9:26:06 pm] Activity: Virgo karaoke avond!
+[December 11th 2016, 9:26:06 pm] Activity: Open podium & leden veiling
+[December 11th 2016, 9:26:06 pm] Activity: S.V. Virgo Cape Day
+[December 11th 2016, 9:26:06 pm] Activity: S.V. Virgo Gender In The Blender
+[December 11th 2016, 9:26:06 pm] Activity: OT feest 1: Derde Helft
+[December 11th 2016, 9:26:06 pm] Activity: Kroegenstorm S.V. Virgo
+[December 11th 2016, 9:26:06 pm] Activity: VriMiBo S.V. Virgo
+[December 11th 2016, 9:26:06 pm] Activity: Bal Masque Shots
+[December 11th 2016, 9:26:06 pm] Activity: Dinsdagstart Periode 3
+[December 11th 2016, 9:26:06 pm] Activity: Pré-carnaval SV Virgo
+[December 11th 2016, 9:26:06 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 11th 2016, 9:28:03 pm] Adding routes...
+[December 11th 2016, 9:28:03 pm] Routes added
+[December 11th 2016, 9:28:03 pm] Listening server on port 8060
+[December 11th 2016, 9:28:04 pm] Database is connected ... nn
+[December 11th 2016, 9:33:49 pm] POST /apiv1/activiteiten
+[December 11th 2016, 9:33:49 pm] Database is connected ... nn
+[December 11th 2016, 9:33:49 pm] Activity: Virgo Pubquiz!
+[December 11th 2016, 9:33:49 pm] Activity: Bierweek !
+[December 11th 2016, 9:33:49 pm] Activity: Nerf Gun Mania
+[December 11th 2016, 9:33:49 pm] Activity: OT feest 3: Kroegentocht
+[December 11th 2016, 9:33:49 pm] Activity: 1000 Palm 2016
+[December 11th 2016, 9:33:49 pm] Activity: Woensdagstart
+[December 11th 2016, 9:33:49 pm] Activity: Inauguratie S.V. Virgo
+[December 11th 2016, 9:33:49 pm] Activity: Donderdagstart Periode 1
+[December 11th 2016, 9:33:49 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 11th 2016, 9:33:49 pm] Activity: OT feest 2: Crazy 88
+[December 11th 2016, 9:33:49 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 11th 2016, 9:33:49 pm] Activity: Meiweek
+[December 11th 2016, 9:33:49 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 11th 2016, 9:33:49 pm] Activity: VriMiBo
+[December 11th 2016, 9:33:49 pm] Activity: Virgo karaoke avond!
+[December 11th 2016, 9:33:49 pm] Activity: Open podium & leden veiling
+[December 11th 2016, 9:33:49 pm] Activity: S.V. Virgo Cape Day
+[December 11th 2016, 9:33:49 pm] Activity: S.V. Virgo Gender In The Blender
+[December 11th 2016, 9:33:49 pm] Activity: OT feest 1: Derde Helft
+[December 11th 2016, 9:33:49 pm] Activity: Kroegenstorm S.V. Virgo
+[December 11th 2016, 9:33:49 pm] Activity: VriMiBo S.V. Virgo
+[December 11th 2016, 9:33:49 pm] Activity: Bal Masque Shots
+[December 11th 2016, 9:33:49 pm] Activity: Dinsdagstart Periode 3
+[December 11th 2016, 9:33:49 pm] Activity: Pré-carnaval SV Virgo
+[December 11th 2016, 9:33:49 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 11th 2016, 10:05:38 pm] Adding routes...
+[December 11th 2016, 10:05:38 pm] Routes added
+[December 11th 2016, 10:05:38 pm] Listening server on port 8060
+[December 11th 2016, 10:05:39 pm] Database is connected ... nn
+[December 11th 2016, 10:05:56 pm] POST /apiv1/activiteiten
+[December 11th 2016, 10:05:56 pm] Database is connected ... nn
+[December 11th 2016, 10:05:56 pm] Activity: Virgo Pubquiz!
+[December 11th 2016, 10:05:56 pm] Activity: Bierweek !
+[December 11th 2016, 10:05:56 pm] Activity: Nerf Gun Mania
+[December 11th 2016, 10:05:56 pm] Activity: OT feest 3: Kroegentocht
+[December 11th 2016, 10:05:56 pm] Activity: 1000 Palm 2016
+[December 11th 2016, 10:05:56 pm] Activity: Woensdagstart
+[December 11th 2016, 10:05:56 pm] Activity: Inauguratie S.V. Virgo
+[December 11th 2016, 10:05:56 pm] Activity: Donderdagstart Periode 1
+[December 11th 2016, 10:05:56 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 11th 2016, 10:05:56 pm] Activity: OT feest 2: Crazy 88
+[December 11th 2016, 10:05:56 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 11th 2016, 10:05:56 pm] Activity: Meiweek
+[December 11th 2016, 10:05:56 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 11th 2016, 10:05:56 pm] Activity: VriMiBo
+[December 11th 2016, 10:05:56 pm] Activity: Virgo karaoke avond!
+[December 11th 2016, 10:05:56 pm] Activity: Open podium & leden veiling
+[December 11th 2016, 10:05:56 pm] Activity: S.V. Virgo Cape Day
+[December 11th 2016, 10:05:56 pm] Activity: S.V. Virgo Gender In The Blender
+[December 11th 2016, 10:05:56 pm] Activity: OT feest 1: Derde Helft
+[December 11th 2016, 10:05:56 pm] Activity: Kroegenstorm S.V. Virgo
+[December 11th 2016, 10:05:56 pm] Activity: VriMiBo S.V. Virgo
+[December 11th 2016, 10:05:56 pm] Activity: Bal Masque Shots
+[December 11th 2016, 10:05:56 pm] Activity: Dinsdagstart Periode 3
+[December 11th 2016, 10:05:56 pm] Activity: Pré-carnaval SV Virgo
+[December 11th 2016, 10:05:56 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 11th 2016, 10:32:22 pm] POST /apiv1/activiteiten
+[December 11th 2016, 10:32:22 pm] Database is connected ... nn
+[December 11th 2016, 10:32:22 pm] Activity: Virgo Pubquiz!
+[December 11th 2016, 10:32:22 pm] Activity: Bierweek !
+[December 11th 2016, 10:32:22 pm] Activity: Nerf Gun Mania
+[December 11th 2016, 10:32:22 pm] Activity: OT feest 3: Kroegentocht
+[December 11th 2016, 10:32:22 pm] Activity: 1000 Palm 2016
+[December 11th 2016, 10:32:22 pm] Activity: Woensdagstart
+[December 11th 2016, 10:32:22 pm] Activity: Inauguratie S.V. Virgo
+[December 11th 2016, 10:32:22 pm] Activity: Donderdagstart Periode 1
+[December 11th 2016, 10:32:22 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 11th 2016, 10:32:22 pm] Activity: OT feest 2: Crazy 88
+[December 11th 2016, 10:32:22 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 11th 2016, 10:32:22 pm] Activity: Meiweek
+[December 11th 2016, 10:32:22 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 11th 2016, 10:32:22 pm] Activity: VriMiBo
+[December 11th 2016, 10:32:22 pm] Activity: Virgo karaoke avond!
+[December 11th 2016, 10:32:22 pm] Activity: Open podium & leden veiling
+[December 11th 2016, 10:32:22 pm] Activity: S.V. Virgo Cape Day
+[December 11th 2016, 10:32:22 pm] Activity: S.V. Virgo Gender In The Blender
+[December 11th 2016, 10:32:22 pm] Activity: OT feest 1: Derde Helft
+[December 11th 2016, 10:32:22 pm] Activity: Kroegenstorm S.V. Virgo
+[December 11th 2016, 10:32:22 pm] Activity: VriMiBo S.V. Virgo
+[December 11th 2016, 10:32:22 pm] Activity: Bal Masque Shots
+[December 11th 2016, 10:32:22 pm] Activity: Dinsdagstart Periode 3
+[December 11th 2016, 10:32:22 pm] Activity: Pré-carnaval SV Virgo
+[December 11th 2016, 10:32:22 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 11th 2016, 10:35:39 pm] Database is connected ... nn
+[December 12th 2016, 6:24:46 pm] Adding routes...
+[December 12th 2016, 6:24:46 pm] Routes added
+[December 12th 2016, 6:24:46 pm] Listening server on port 8060
+[December 12th 2016, 6:24:46 pm] Database is connected ... nn
+[December 12th 2016, 6:24:50 pm] POST /apiv1/activiteiten
+[December 12th 2016, 6:24:50 pm] Database is connected ... nn
+[December 12th 2016, 6:24:50 pm] Activity: Virgo Pubquiz!
+[December 12th 2016, 6:24:50 pm] Activity: Bierweek !
+[December 12th 2016, 6:24:50 pm] Activity: Nerf Gun Mania
+[December 12th 2016, 6:24:50 pm] Activity: OT feest 3: Kroegentocht
+[December 12th 2016, 6:24:50 pm] Activity: 1000 Palm 2016
+[December 12th 2016, 6:24:50 pm] Activity: Woensdagstart
+[December 12th 2016, 6:24:50 pm] Activity: Inauguratie S.V. Virgo
+[December 12th 2016, 6:24:50 pm] Activity: Donderdagstart Periode 1
+[December 12th 2016, 6:24:50 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 12th 2016, 6:24:50 pm] Activity: OT feest 2: Crazy 88
+[December 12th 2016, 6:24:50 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 12th 2016, 6:24:50 pm] Activity: Meiweek
+[December 12th 2016, 6:24:50 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 12th 2016, 6:24:50 pm] Activity: VriMiBo
+[December 12th 2016, 6:24:50 pm] Activity: Virgo karaoke avond!
+[December 12th 2016, 6:24:50 pm] Activity: Open podium & leden veiling
+[December 12th 2016, 6:24:50 pm] Activity: S.V. Virgo Cape Day
+[December 12th 2016, 6:24:50 pm] Activity: S.V. Virgo Gender In The Blender
+[December 12th 2016, 6:24:50 pm] Activity: OT feest 1: Derde Helft
+[December 12th 2016, 6:24:50 pm] Activity: Kroegenstorm S.V. Virgo
+[December 12th 2016, 6:24:50 pm] Activity: VriMiBo S.V. Virgo
+[December 12th 2016, 6:24:50 pm] Activity: Bal Masque Shots
+[December 12th 2016, 6:24:50 pm] Activity: Dinsdagstart Periode 3
+[December 12th 2016, 6:24:50 pm] Activity: Pré-carnaval SV Virgo
+[December 12th 2016, 6:24:50 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 12th 2016, 7:02:58 pm] Adding routes...
+[December 12th 2016, 7:02:58 pm] Routes added
+[December 12th 2016, 7:02:58 pm] Listening server on port 8060
+[December 12th 2016, 7:02:58 pm] Database is connected ... nn
+[December 12th 2016, 7:03:05 pm] POST /apiv1/activiteiten
+[December 12th 2016, 7:03:05 pm] Database is connected ... nn
+[December 12th 2016, 7:03:05 pm] Activity: Virgo Pubquiz!
+[December 12th 2016, 7:03:05 pm] Activity: Bierweek !
+[December 12th 2016, 7:03:05 pm] Activity: Nerf Gun Mania
+[December 12th 2016, 7:03:05 pm] Activity: OT feest 3: Kroegentocht
+[December 12th 2016, 7:03:05 pm] Activity: 1000 Palm 2016
+[December 12th 2016, 7:03:05 pm] Activity: Woensdagstart
+[December 12th 2016, 7:03:05 pm] Activity: Inauguratie S.V. Virgo
+[December 12th 2016, 7:03:05 pm] Activity: Donderdagstart Periode 1
+[December 12th 2016, 7:03:05 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 12th 2016, 7:03:05 pm] Activity: OT feest 2: Crazy 88
+[December 12th 2016, 7:03:05 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 12th 2016, 7:03:05 pm] Activity: Meiweek
+[December 12th 2016, 7:03:05 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 12th 2016, 7:03:05 pm] Activity: VriMiBo
+[December 12th 2016, 7:03:05 pm] Activity: Virgo karaoke avond!
+[December 12th 2016, 7:03:05 pm] Activity: Open podium & leden veiling
+[December 12th 2016, 7:03:05 pm] Activity: S.V. Virgo Cape Day
+[December 12th 2016, 7:03:05 pm] Activity: S.V. Virgo Gender In The Blender
+[December 12th 2016, 7:03:05 pm] Activity: OT feest 1: Derde Helft
+[December 12th 2016, 7:03:05 pm] Activity: Kroegenstorm S.V. Virgo
+[December 12th 2016, 7:03:05 pm] Activity: VriMiBo S.V. Virgo
+[December 12th 2016, 7:03:05 pm] Activity: Bal Masque Shots
+[December 12th 2016, 7:03:05 pm] Activity: Dinsdagstart Periode 3
+[December 12th 2016, 7:03:05 pm] Activity: Pré-carnaval SV Virgo
+[December 12th 2016, 7:03:05 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 12th 2016, 7:06:51 pm] POST /apiv1/activiteiten
+[December 12th 2016, 7:06:51 pm] Database is connected ... nn
+[December 12th 2016, 7:06:51 pm] Activity: Virgo Pubquiz!
+[December 12th 2016, 7:06:51 pm] Activity: Bierweek !
+[December 12th 2016, 7:06:51 pm] Activity: Nerf Gun Mania
+[December 12th 2016, 7:06:51 pm] Activity: OT feest 3: Kroegentocht
+[December 12th 2016, 7:06:51 pm] Activity: 1000 Palm 2016
+[December 12th 2016, 7:06:51 pm] Activity: Woensdagstart
+[December 12th 2016, 7:06:51 pm] Activity: Inauguratie S.V. Virgo
+[December 12th 2016, 7:06:51 pm] Activity: Donderdagstart Periode 1
+[December 12th 2016, 7:06:51 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 12th 2016, 7:06:51 pm] Activity: OT feest 2: Crazy 88
+[December 12th 2016, 7:06:51 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 12th 2016, 7:06:51 pm] Activity: Meiweek
+[December 12th 2016, 7:06:51 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 12th 2016, 7:06:51 pm] Activity: VriMiBo
+[December 12th 2016, 7:06:51 pm] Activity: Virgo karaoke avond!
+[December 12th 2016, 7:06:51 pm] Activity: Open podium & leden veiling
+[December 12th 2016, 7:06:51 pm] Activity: S.V. Virgo Cape Day
+[December 12th 2016, 7:06:51 pm] Activity: S.V. Virgo Gender In The Blender
+[December 12th 2016, 7:06:51 pm] Activity: OT feest 1: Derde Helft
+[December 12th 2016, 7:06:51 pm] Activity: Kroegenstorm S.V. Virgo
+[December 12th 2016, 7:06:51 pm] Activity: VriMiBo S.V. Virgo
+[December 12th 2016, 7:06:51 pm] Activity: Bal Masque Shots
+[December 12th 2016, 7:06:51 pm] Activity: Dinsdagstart Periode 3
+[December 12th 2016, 7:06:51 pm] Activity: Pré-carnaval SV Virgo
+[December 12th 2016, 7:06:51 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 12th 2016, 7:32:58 pm] Database is connected ... nn
+[December 12th 2016, 7:41:07 pm] POST /apiv1/activiteiten
+[December 12th 2016, 7:41:07 pm] Database is connected ... nn
+[December 12th 2016, 8:02:58 pm] Database is connected ... nn
+[December 12th 2016, 8:12:46 pm] POST /apiv1/activiteiten
+[December 12th 2016, 8:12:46 pm] Database is connected ... nn
+[December 12th 2016, 8:32:58 pm] Database is connected ... nn
+[December 14th 2016, 1:22:22 pm] Adding routes...
+[December 14th 2016, 1:22:22 pm] Routes added
+[December 14th 2016, 1:22:22 pm] Listening server on port 8060
+[December 14th 2016, 1:22:22 pm] Database is connected ... nn
+[December 14th 2016, 1:22:22 pm] Getting event: 380028419005171
+[December 14th 2016, 1:22:23 pm] Adding new event: Virgo Decemberfest.
+[December 14th 2016, 1:22:23 pm] Database is connected ... nn
+[December 14th 2016, 1:25:34 pm] POST /apiv1/activiteiten
+[December 14th 2016, 1:25:34 pm] Database is connected ... nn
+[December 14th 2016, 1:25:34 pm] Activity: Virgo Decemberfest.
+[December 14th 2016, 1:32:23 pm] GET /apiv1/activiteiten
+[December 14th 2016, 1:33:10 pm] POST /apiv1/activiteiten
+[December 14th 2016, 1:33:10 pm] Incompatible date format
+[December 14th 2016, 1:33:22 pm] POST /apiv1/activiteiten
+[December 14th 2016, 1:33:22 pm] Incompatible date format
+[December 14th 2016, 1:52:22 pm] Database is connected ... nn
+[December 14th 2016, 2:31:26 pm] POST /apiv1/activiteiten
+[December 14th 2016, 2:31:26 pm] Incompatible date format
+[December 14th 2016, 2:31:26 pm] Database is connected ... nn
+[December 14th 2016, 2:33:42 pm] POST /apiv1/activiteiten
+[December 14th 2016, 2:33:42 pm] Database is connected ... nn
+[December 14th 2016, 3:01:26 pm] Database is connected ... nn
+[December 14th 2016, 4:37:16 pm] POST /apiv1/activiteiten
+[December 14th 2016, 4:37:16 pm] Database is connected ... nn
+[December 14th 2016, 4:37:17 pm] Database is connected ... nn
+[December 14th 2016, 4:43:49 pm] POST /apiv1/activiteiten
+[December 14th 2016, 4:43:49 pm] Database is connected ... nn
+[December 14th 2016, 4:43:49 pm] Activity: Virgo Pubquiz!
+[December 14th 2016, 4:43:49 pm] Activity: Bierweek !
+[December 14th 2016, 4:43:49 pm] Activity: Nerf Gun Mania
+[December 14th 2016, 4:43:49 pm] Activity: OT feest 3: Kroegentocht
+[December 14th 2016, 4:43:49 pm] Activity: 1000 Palm 2016
+[December 14th 2016, 4:43:49 pm] Activity: Woensdagstart
+[December 14th 2016, 4:43:49 pm] Activity: Inauguratie S.V. Virgo
+[December 14th 2016, 4:43:49 pm] Activity: Donderdagstart Periode 1
+[December 14th 2016, 4:43:49 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 14th 2016, 4:43:49 pm] Activity: OT feest 2: Crazy 88
+[December 14th 2016, 4:43:49 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 14th 2016, 4:43:49 pm] Activity: Meiweek
+[December 14th 2016, 4:43:49 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 14th 2016, 4:43:49 pm] Activity: VriMiBo
+[December 14th 2016, 4:43:49 pm] Activity: Virgo karaoke avond!
+[December 14th 2016, 4:43:49 pm] Activity: Open podium & leden veiling
+[December 14th 2016, 4:43:49 pm] Activity: S.V. Virgo Cape Day
+[December 14th 2016, 4:43:49 pm] Activity: S.V. Virgo Gender In The Blender
+[December 14th 2016, 4:43:49 pm] Activity: OT feest 1: Derde Helft
+[December 14th 2016, 4:43:49 pm] Activity: Kroegenstorm S.V. Virgo
+[December 14th 2016, 4:43:49 pm] Activity: VriMiBo S.V. Virgo
+[December 14th 2016, 4:43:49 pm] Activity: Bal Masque Shots
+[December 14th 2016, 4:43:49 pm] Activity: Dinsdagstart Periode 3
+[December 14th 2016, 4:43:49 pm] Activity: Pré-carnaval SV Virgo
+[December 14th 2016, 4:43:49 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 14th 2016, 4:43:49 pm] Activity: Virgo Decemberfest.
+[December 14th 2016, 4:56:31 pm] POST /apiv1/activiteiten
+[December 14th 2016, 4:56:31 pm] Database is connected ... nn
+[December 14th 2016, 4:56:31 pm] Activity: Virgo Pubquiz!
+[December 14th 2016, 4:56:31 pm] Activity: Bierweek !
+[December 14th 2016, 4:56:32 pm] Activity: Nerf Gun Mania
+[December 14th 2016, 4:56:32 pm] Activity: OT feest 3: Kroegentocht
+[December 14th 2016, 4:56:32 pm] Activity: 1000 Palm 2016
+[December 14th 2016, 4:56:32 pm] Activity: Woensdagstart
+[December 14th 2016, 4:56:32 pm] Activity: Inauguratie S.V. Virgo
+[December 14th 2016, 4:56:32 pm] Activity: Donderdagstart Periode 1
+[December 14th 2016, 4:56:32 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 14th 2016, 4:56:32 pm] Activity: OT feest 2: Crazy 88
+[December 14th 2016, 4:56:32 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 14th 2016, 4:56:32 pm] Activity: Meiweek
+[December 14th 2016, 4:56:32 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 14th 2016, 4:56:32 pm] Activity: VriMiBo
+[December 14th 2016, 4:56:32 pm] Activity: Virgo karaoke avond!
+[December 14th 2016, 4:56:32 pm] Activity: Open podium & leden veiling
+[December 14th 2016, 4:56:32 pm] Activity: S.V. Virgo Cape Day
+[December 14th 2016, 4:56:32 pm] Activity: S.V. Virgo Gender In The Blender
+[December 14th 2016, 4:56:32 pm] Activity: OT feest 1: Derde Helft
+[December 14th 2016, 4:56:32 pm] Activity: Kroegenstorm S.V. Virgo
+[December 14th 2016, 4:56:32 pm] Activity: VriMiBo S.V. Virgo
+[December 14th 2016, 4:56:32 pm] Activity: Bal Masque Shots
+[December 14th 2016, 4:56:32 pm] Activity: Dinsdagstart Periode 3
+[December 14th 2016, 4:56:32 pm] Activity: Pré-carnaval SV Virgo
+[December 14th 2016, 4:56:32 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 14th 2016, 4:56:32 pm] Activity: Virgo Decemberfest.
+[December 14th 2016, 5:07:17 pm] Database is connected ... nn
+[December 14th 2016, 5:27:13 pm] POST /apiv1/activiteiten
+[December 14th 2016, 5:27:13 pm] Incompatible date format
+[December 14th 2016, 5:28:02 pm] POST /apiv1/activiteiten
+[December 14th 2016, 5:28:02 pm] Database is connected ... nn
+[December 14th 2016, 5:28:59 pm] POST /apiv1/activiteiten
+[December 14th 2016, 5:28:59 pm] Database is connected ... nn
+[December 14th 2016, 5:28:59 pm] Activity: Virgo Pubquiz!
+[December 14th 2016, 5:28:59 pm] Activity: Bierweek !
+[December 14th 2016, 5:28:59 pm] Activity: Nerf Gun Mania
+[December 14th 2016, 5:28:59 pm] Activity: OT feest 3: Kroegentocht
+[December 14th 2016, 5:28:59 pm] Activity: 1000 Palm 2016
+[December 14th 2016, 5:28:59 pm] Activity: Woensdagstart
+[December 14th 2016, 5:28:59 pm] Activity: Inauguratie S.V. Virgo
+[December 14th 2016, 5:28:59 pm] Activity: Donderdagstart Periode 1
+[December 14th 2016, 5:28:59 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 14th 2016, 5:28:59 pm] Activity: OT feest 2: Crazy 88
+[December 14th 2016, 5:28:59 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 14th 2016, 5:28:59 pm] Activity: Meiweek
+[December 14th 2016, 5:28:59 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 14th 2016, 5:28:59 pm] Activity: VriMiBo
+[December 14th 2016, 5:28:59 pm] Activity: Virgo karaoke avond!
+[December 14th 2016, 5:28:59 pm] Activity: Open podium & leden veiling
+[December 14th 2016, 5:28:59 pm] Activity: S.V. Virgo Cape Day
+[December 14th 2016, 5:28:59 pm] Activity: S.V. Virgo Gender In The Blender
+[December 14th 2016, 5:28:59 pm] Activity: OT feest 1: Derde Helft
+[December 14th 2016, 5:28:59 pm] Activity: Kroegenstorm S.V. Virgo
+[December 14th 2016, 5:28:59 pm] Activity: VriMiBo S.V. Virgo
+[December 14th 2016, 5:28:59 pm] Activity: Bal Masque Shots
+[December 14th 2016, 5:28:59 pm] Activity: Dinsdagstart Periode 3
+[December 14th 2016, 5:28:59 pm] Activity: Pré-carnaval SV Virgo
+[December 14th 2016, 5:28:59 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 14th 2016, 5:28:59 pm] Activity: Virgo Decemberfest.
+[December 14th 2016, 5:35:56 pm] POST /apiv1/activiteiten
+[December 14th 2016, 5:35:56 pm] Database is connected ... nn
+[December 14th 2016, 5:35:56 pm] Activity: Virgo Pubquiz!
+[December 14th 2016, 5:35:56 pm] Activity: Bierweek !
+[December 14th 2016, 5:35:56 pm] Activity: Nerf Gun Mania
+[December 14th 2016, 5:35:56 pm] Activity: OT feest 3: Kroegentocht
+[December 14th 2016, 5:35:56 pm] Activity: 1000 Palm 2016
+[December 14th 2016, 5:35:56 pm] Activity: Woensdagstart
+[December 14th 2016, 5:35:56 pm] Activity: Inauguratie S.V. Virgo
+[December 14th 2016, 5:35:56 pm] Activity: Donderdagstart Periode 1
+[December 14th 2016, 5:35:56 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 14th 2016, 5:35:56 pm] Activity: OT feest 2: Crazy 88
+[December 14th 2016, 5:35:56 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 14th 2016, 5:35:56 pm] Activity: Meiweek
+[December 14th 2016, 5:35:56 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 14th 2016, 5:35:56 pm] Activity: VriMiBo
+[December 14th 2016, 5:35:56 pm] Activity: Virgo karaoke avond!
+[December 14th 2016, 5:35:56 pm] Activity: Open podium & leden veiling
+[December 14th 2016, 5:35:56 pm] Activity: S.V. Virgo Cape Day
+[December 14th 2016, 5:35:56 pm] Activity: S.V. Virgo Gender In The Blender
+[December 14th 2016, 5:35:56 pm] Activity: OT feest 1: Derde Helft
+[December 14th 2016, 5:35:56 pm] Activity: Kroegenstorm S.V. Virgo
+[December 14th 2016, 5:35:56 pm] Activity: VriMiBo S.V. Virgo
+[December 14th 2016, 5:35:56 pm] Activity: Bal Masque Shots
+[December 14th 2016, 5:35:56 pm] Activity: Dinsdagstart Periode 3
+[December 14th 2016, 5:35:56 pm] Activity: Pré-carnaval SV Virgo
+[December 14th 2016, 5:35:56 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 14th 2016, 5:35:56 pm] Activity: Virgo Decemberfest.
+[December 14th 2016, 5:37:17 pm] Database is connected ... nn
+[December 14th 2016, 6:07:17 pm] Database is connected ... nn
+[December 14th 2016, 6:36:26 pm] POST /apiv1/activiteiten
+[December 14th 2016, 6:36:26 pm] Database is connected ... nn
+[December 14th 2016, 6:37:17 pm] Database is connected ... nn
+[December 14th 2016, 7:07:17 pm] Database is connected ... nn
+[December 14th 2016, 8:51:09 pm] POST /apiv1/activiteiten
+[December 14th 2016, 8:51:09 pm] Database is connected ... nn
+[December 14th 2016, 8:51:09 pm] Database is connected ... nn
+[December 14th 2016, 9:14:03 pm] POST /apiv1/activiteiten
+[December 14th 2016, 9:14:03 pm] Database is connected ... nn
+[December 14th 2016, 9:14:03 pm] Activity: Virgo Pubquiz!
+[December 14th 2016, 9:14:03 pm] Activity: Bierweek !
+[December 14th 2016, 9:14:03 pm] Activity: Nerf Gun Mania
+[December 14th 2016, 9:14:03 pm] Activity: OT feest 3: Kroegentocht
+[December 14th 2016, 9:14:03 pm] Activity: 1000 Palm 2016
+[December 14th 2016, 9:14:03 pm] Activity: Woensdagstart
+[December 14th 2016, 9:14:03 pm] Activity: Inauguratie S.V. Virgo
+[December 14th 2016, 9:14:03 pm] Activity: Donderdagstart Periode 1
+[December 14th 2016, 9:14:03 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 14th 2016, 9:14:03 pm] Activity: OT feest 2: Crazy 88
+[December 14th 2016, 9:14:03 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 14th 2016, 9:14:03 pm] Activity: Meiweek
+[December 14th 2016, 9:14:03 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 14th 2016, 9:14:03 pm] Activity: VriMiBo
+[December 14th 2016, 9:14:03 pm] Activity: Virgo karaoke avond!
+[December 14th 2016, 9:14:03 pm] Activity: Open podium & leden veiling
+[December 14th 2016, 9:14:03 pm] Activity: S.V. Virgo Cape Day
+[December 14th 2016, 9:14:03 pm] Activity: S.V. Virgo Gender In The Blender
+[December 14th 2016, 9:14:03 pm] Activity: OT feest 1: Derde Helft
+[December 14th 2016, 9:14:03 pm] Activity: Kroegenstorm S.V. Virgo
+[December 14th 2016, 9:14:03 pm] Activity: VriMiBo S.V. Virgo
+[December 14th 2016, 9:14:03 pm] Activity: Bal Masque Shots
+[December 14th 2016, 9:14:03 pm] Activity: Dinsdagstart Periode 3
+[December 14th 2016, 9:14:03 pm] Activity: Pré-carnaval SV Virgo
+[December 14th 2016, 9:14:03 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 14th 2016, 9:14:03 pm] Activity: Virgo Decemberfest.
+[December 14th 2016, 9:14:08 pm] POST /apiv1/activiteiten
+[December 14th 2016, 9:14:08 pm] Database is connected ... nn
+[December 14th 2016, 9:14:08 pm] Activity: Virgo Pubquiz!
+[December 14th 2016, 9:14:08 pm] Activity: Bierweek !
+[December 14th 2016, 9:14:08 pm] Activity: Nerf Gun Mania
+[December 14th 2016, 9:14:08 pm] Activity: OT feest 3: Kroegentocht
+[December 14th 2016, 9:14:08 pm] Activity: 1000 Palm 2016
+[December 14th 2016, 9:14:08 pm] Activity: Woensdagstart
+[December 14th 2016, 9:14:08 pm] Activity: Inauguratie S.V. Virgo
+[December 14th 2016, 9:14:08 pm] Activity: Donderdagstart Periode 1
+[December 14th 2016, 9:14:08 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 14th 2016, 9:14:08 pm] Activity: OT feest 2: Crazy 88
+[December 14th 2016, 9:14:08 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 14th 2016, 9:14:08 pm] Activity: Meiweek
+[December 14th 2016, 9:14:08 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 14th 2016, 9:14:08 pm] Activity: VriMiBo
+[December 14th 2016, 9:14:08 pm] Activity: Virgo karaoke avond!
+[December 14th 2016, 9:14:08 pm] Activity: Open podium & leden veiling
+[December 14th 2016, 9:14:08 pm] Activity: S.V. Virgo Cape Day
+[December 14th 2016, 9:14:08 pm] Activity: S.V. Virgo Gender In The Blender
+[December 14th 2016, 9:14:08 pm] Activity: OT feest 1: Derde Helft
+[December 14th 2016, 9:14:08 pm] Activity: Kroegenstorm S.V. Virgo
+[December 14th 2016, 9:14:08 pm] Activity: VriMiBo S.V. Virgo
+[December 14th 2016, 9:14:08 pm] Activity: Bal Masque Shots
+[December 14th 2016, 9:14:08 pm] Activity: Dinsdagstart Periode 3
+[December 14th 2016, 9:14:08 pm] Activity: Pré-carnaval SV Virgo
+[December 14th 2016, 9:14:08 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 14th 2016, 9:14:08 pm] Activity: Virgo Decemberfest.
+[December 14th 2016, 9:16:34 pm] POST /apiv1/activiteiten
+[December 14th 2016, 9:16:34 pm] Database is connected ... nn
+[December 14th 2016, 9:16:34 pm] Activity: Virgo Pubquiz!
+[December 14th 2016, 9:16:34 pm] Activity: Bierweek !
+[December 14th 2016, 9:16:34 pm] Activity: Nerf Gun Mania
+[December 14th 2016, 9:16:34 pm] Activity: OT feest 3: Kroegentocht
+[December 14th 2016, 9:16:34 pm] Activity: 1000 Palm 2016
+[December 14th 2016, 9:16:34 pm] Activity: Woensdagstart
+[December 14th 2016, 9:16:34 pm] Activity: Inauguratie S.V. Virgo
+[December 14th 2016, 9:16:34 pm] Activity: Donderdagstart Periode 1
+[December 14th 2016, 9:16:34 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 14th 2016, 9:16:34 pm] Activity: OT feest 2: Crazy 88
+[December 14th 2016, 9:16:34 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 14th 2016, 9:16:34 pm] Activity: Meiweek
+[December 14th 2016, 9:16:34 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 14th 2016, 9:16:34 pm] Activity: VriMiBo
+[December 14th 2016, 9:16:34 pm] Activity: Virgo karaoke avond!
+[December 14th 2016, 9:16:34 pm] Activity: Open podium & leden veiling
+[December 14th 2016, 9:16:34 pm] Activity: S.V. Virgo Cape Day
+[December 14th 2016, 9:16:34 pm] Activity: S.V. Virgo Gender In The Blender
+[December 14th 2016, 9:16:34 pm] Activity: OT feest 1: Derde Helft
+[December 14th 2016, 9:16:34 pm] Activity: Kroegenstorm S.V. Virgo
+[December 14th 2016, 9:16:34 pm] Activity: VriMiBo S.V. Virgo
+[December 14th 2016, 9:16:34 pm] Activity: Bal Masque Shots
+[December 14th 2016, 9:16:34 pm] Activity: Dinsdagstart Periode 3
+[December 14th 2016, 9:16:34 pm] Activity: Pré-carnaval SV Virgo
+[December 14th 2016, 9:16:34 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 14th 2016, 9:16:34 pm] Activity: Virgo Decemberfest.
+[December 14th 2016, 9:21:09 pm] Database is connected ... nn
+[December 14th 2016, 9:51:19 pm] POST /apiv1/activiteiten
+[December 14th 2016, 9:51:19 pm] Database is connected ... nn
+[December 14th 2016, 9:51:19 pm] Database is connected ... nn
+[December 14th 2016, 10:21:19 pm] Database is connected ... nn
+[December 14th 2016, 10:24:44 pm] POST /apiv1/activiteiten
+[December 14th 2016, 10:24:44 pm] Database is connected ... nn
+[December 14th 2016, 10:51:19 pm] Database is connected ... nn
+[December 14th 2016, 11:09:26 pm] POST /apiv1/activiteiten
+[December 14th 2016, 11:09:26 pm] Database is connected ... nn
+[December 14th 2016, 11:21:19 pm] Database is connected ... nn
+[December 14th 2016, 11:21:48 pm] POST /apiv1/activiteiten
+[December 14th 2016, 11:21:48 pm] Database is connected ... nn
+[December 14th 2016, 11:21:48 pm] Activity: Virgo Pubquiz!
+[December 14th 2016, 11:21:48 pm] Activity: Bierweek !
+[December 14th 2016, 11:21:48 pm] Activity: Nerf Gun Mania
+[December 14th 2016, 11:21:48 pm] Activity: OT feest 3: Kroegentocht
+[December 14th 2016, 11:21:48 pm] Activity: 1000 Palm 2016
+[December 14th 2016, 11:21:48 pm] Activity: Woensdagstart
+[December 14th 2016, 11:21:48 pm] Activity: Inauguratie S.V. Virgo
+[December 14th 2016, 11:21:48 pm] Activity: Donderdagstart Periode 1
+[December 14th 2016, 11:21:48 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 14th 2016, 11:21:48 pm] Activity: OT feest 2: Crazy 88
+[December 14th 2016, 11:21:48 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 14th 2016, 11:21:48 pm] Activity: Meiweek
+[December 14th 2016, 11:21:48 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 14th 2016, 11:21:48 pm] Activity: VriMiBo
+[December 14th 2016, 11:21:48 pm] Activity: Virgo karaoke avond!
+[December 14th 2016, 11:21:48 pm] Activity: Open podium & leden veiling
+[December 14th 2016, 11:21:48 pm] Activity: S.V. Virgo Cape Day
+[December 14th 2016, 11:21:48 pm] Activity: S.V. Virgo Gender In The Blender
+[December 14th 2016, 11:21:48 pm] Activity: OT feest 1: Derde Helft
+[December 14th 2016, 11:21:48 pm] Activity: Kroegenstorm S.V. Virgo
+[December 14th 2016, 11:21:48 pm] Activity: VriMiBo S.V. Virgo
+[December 14th 2016, 11:21:48 pm] Activity: Bal Masque Shots
+[December 14th 2016, 11:21:48 pm] Activity: Dinsdagstart Periode 3
+[December 14th 2016, 11:21:48 pm] Activity: Pré-carnaval SV Virgo
+[December 14th 2016, 11:21:48 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 14th 2016, 11:21:48 pm] Activity: Virgo Decemberfest.
+[December 14th 2016, 11:51:19 pm] Database is connected ... nn
+[December 15th 2016, 1:21:15 am] POST /apiv1/activiteiten
+[December 15th 2016, 1:21:15 am] Database is connected ... nn
+[December 15th 2016, 1:21:15 am] Activity: Virgo Pubquiz!
+[December 15th 2016, 1:21:15 am] Activity: Bierweek !
+[December 15th 2016, 1:21:15 am] Activity: Nerf Gun Mania
+[December 15th 2016, 1:21:15 am] Activity: OT feest 3: Kroegentocht
+[December 15th 2016, 1:21:15 am] Activity: 1000 Palm 2016
+[December 15th 2016, 1:21:15 am] Activity: Woensdagstart
+[December 15th 2016, 1:21:15 am] Activity: Inauguratie S.V. Virgo
+[December 15th 2016, 1:21:15 am] Activity: Donderdagstart Periode 1
+[December 15th 2016, 1:21:15 am] Activity: ALV 31/05/16 S.V. Virgo
+[December 15th 2016, 1:21:15 am] Activity: OT feest 2: Crazy 88
+[December 15th 2016, 1:21:15 am] Activity: Afterstress Barbecue S.V. Virgo
+[December 15th 2016, 1:21:15 am] Activity: Meiweek
+[December 15th 2016, 1:21:15 am] Activity: S.V. Virgo Donderdag start periode 4
+[December 15th 2016, 1:21:15 am] Activity: VriMiBo
+[December 15th 2016, 1:21:15 am] Activity: Virgo karaoke avond!
+[December 15th 2016, 1:21:15 am] Activity: Open podium & leden veiling
+[December 15th 2016, 1:21:15 am] Activity: S.V. Virgo Cape Day
+[December 15th 2016, 1:21:15 am] Activity: S.V. Virgo Gender In The Blender
+[December 15th 2016, 1:21:15 am] Activity: OT feest 1: Derde Helft
+[December 15th 2016, 1:21:15 am] Activity: Kroegenstorm S.V. Virgo
+[December 15th 2016, 1:21:15 am] Activity: VriMiBo S.V. Virgo
+[December 15th 2016, 1:21:15 am] Activity: Bal Masque Shots
+[December 15th 2016, 1:21:15 am] Activity: Dinsdagstart Periode 3
+[December 15th 2016, 1:21:15 am] Activity: Pré-carnaval SV Virgo
+[December 15th 2016, 1:21:15 am] Activity: Algemene leden vergadering S.V. Virgo
+[December 15th 2016, 1:21:15 am] Activity: Virgo Decemberfest.
+[December 15th 2016, 1:21:16 am] Database is connected ... nn
+[December 15th 2016, 1:51:16 am] Database is connected ... nn
+[December 15th 2016, 4:06:32 am] POST /apiv1/activiteiten
+[December 15th 2016, 4:06:32 am] Database is connected ... nn
+[December 15th 2016, 4:06:32 am] Activity: Virgo Pubquiz!
+[December 15th 2016, 4:06:32 am] Activity: Bierweek !
+[December 15th 2016, 4:06:32 am] Activity: Nerf Gun Mania
+[December 15th 2016, 4:06:32 am] Activity: OT feest 3: Kroegentocht
+[December 15th 2016, 4:06:32 am] Activity: 1000 Palm 2016
+[December 15th 2016, 4:06:32 am] Activity: Woensdagstart
+[December 15th 2016, 4:06:32 am] Activity: Inauguratie S.V. Virgo
+[December 15th 2016, 4:06:32 am] Activity: Donderdagstart Periode 1
+[December 15th 2016, 4:06:32 am] Activity: ALV 31/05/16 S.V. Virgo
+[December 15th 2016, 4:06:32 am] Activity: OT feest 2: Crazy 88
+[December 15th 2016, 4:06:32 am] Activity: Afterstress Barbecue S.V. Virgo
+[December 15th 2016, 4:06:32 am] Activity: Meiweek
+[December 15th 2016, 4:06:32 am] Activity: S.V. Virgo Donderdag start periode 4
+[December 15th 2016, 4:06:32 am] Activity: VriMiBo
+[December 15th 2016, 4:06:32 am] Activity: Virgo karaoke avond!
+[December 15th 2016, 4:06:32 am] Activity: Open podium & leden veiling
+[December 15th 2016, 4:06:32 am] Activity: S.V. Virgo Cape Day
+[December 15th 2016, 4:06:32 am] Activity: S.V. Virgo Gender In The Blender
+[December 15th 2016, 4:06:32 am] Activity: OT feest 1: Derde Helft
+[December 15th 2016, 4:06:32 am] Activity: Kroegenstorm S.V. Virgo
+[December 15th 2016, 4:06:32 am] Activity: VriMiBo S.V. Virgo
+[December 15th 2016, 4:06:32 am] Activity: Bal Masque Shots
+[December 15th 2016, 4:06:32 am] Activity: Dinsdagstart Periode 3
+[December 15th 2016, 4:06:32 am] Activity: Pré-carnaval SV Virgo
+[December 15th 2016, 4:06:32 am] Activity: Algemene leden vergadering S.V. Virgo
+[December 15th 2016, 4:06:32 am] Activity: Virgo Decemberfest.
+[December 15th 2016, 4:06:32 am] Database is connected ... nn
+[December 15th 2016, 4:36:32 am] Database is connected ... nn
+[December 15th 2016, 7:23:57 am] POST /apiv1/activiteiten
+[December 15th 2016, 7:23:57 am] Database is connected ... nn
+[December 15th 2016, 7:23:57 am] Activity: Virgo Pubquiz!
+[December 15th 2016, 7:23:57 am] Activity: Bierweek !
+[December 15th 2016, 7:23:57 am] Activity: Nerf Gun Mania
+[December 15th 2016, 7:23:57 am] Activity: OT feest 3: Kroegentocht
+[December 15th 2016, 7:23:57 am] Activity: 1000 Palm 2016
+[December 15th 2016, 7:23:57 am] Activity: Woensdagstart
+[December 15th 2016, 7:23:57 am] Activity: Inauguratie S.V. Virgo
+[December 15th 2016, 7:23:57 am] Activity: Donderdagstart Periode 1
+[December 15th 2016, 7:23:57 am] Activity: ALV 31/05/16 S.V. Virgo
+[December 15th 2016, 7:23:57 am] Activity: OT feest 2: Crazy 88
+[December 15th 2016, 7:23:57 am] Activity: Afterstress Barbecue S.V. Virgo
+[December 15th 2016, 7:23:57 am] Activity: Meiweek
+[December 15th 2016, 7:23:57 am] Activity: S.V. Virgo Donderdag start periode 4
+[December 15th 2016, 7:23:57 am] Activity: VriMiBo
+[December 15th 2016, 7:23:57 am] Activity: Virgo karaoke avond!
+[December 15th 2016, 7:23:57 am] Activity: Open podium & leden veiling
+[December 15th 2016, 7:23:57 am] Activity: S.V. Virgo Cape Day
+[December 15th 2016, 7:23:57 am] Activity: S.V. Virgo Gender In The Blender
+[December 15th 2016, 7:23:57 am] Activity: OT feest 1: Derde Helft
+[December 15th 2016, 7:23:57 am] Activity: Kroegenstorm S.V. Virgo
+[December 15th 2016, 7:23:57 am] Activity: VriMiBo S.V. Virgo
+[December 15th 2016, 7:23:57 am] Activity: Bal Masque Shots
+[December 15th 2016, 7:23:57 am] Activity: Dinsdagstart Periode 3
+[December 15th 2016, 7:23:57 am] Activity: Pré-carnaval SV Virgo
+[December 15th 2016, 7:23:57 am] Activity: Algemene leden vergadering S.V. Virgo
+[December 15th 2016, 7:23:57 am] Activity: Virgo Decemberfest.
+[December 15th 2016, 7:23:58 am] Database is connected ... nn
+[December 15th 2016, 7:53:58 am] Database is connected ... nn
+[December 15th 2016, 8:06:19 am] POST /apiv1/activiteiten
+[December 15th 2016, 8:06:19 am] Database is connected ... nn
+[December 15th 2016, 8:06:19 am] Activity: Virgo Pubquiz!
+[December 15th 2016, 8:06:19 am] Activity: Bierweek !
+[December 15th 2016, 8:06:19 am] Activity: Nerf Gun Mania
+[December 15th 2016, 8:06:19 am] Activity: OT feest 3: Kroegentocht
+[December 15th 2016, 8:06:19 am] Activity: 1000 Palm 2016
+[December 15th 2016, 8:06:19 am] Activity: Woensdagstart
+[December 15th 2016, 8:06:19 am] Activity: Inauguratie S.V. Virgo
+[December 15th 2016, 8:06:19 am] Activity: Donderdagstart Periode 1
+[December 15th 2016, 8:06:19 am] Activity: ALV 31/05/16 S.V. Virgo
+[December 15th 2016, 8:06:19 am] Activity: OT feest 2: Crazy 88
+[December 15th 2016, 8:06:19 am] Activity: Afterstress Barbecue S.V. Virgo
+[December 15th 2016, 8:06:19 am] Activity: Meiweek
+[December 15th 2016, 8:06:19 am] Activity: S.V. Virgo Donderdag start periode 4
+[December 15th 2016, 8:06:19 am] Activity: VriMiBo
+[December 15th 2016, 8:06:19 am] Activity: Virgo karaoke avond!
+[December 15th 2016, 8:06:19 am] Activity: Open podium & leden veiling
+[December 15th 2016, 8:06:19 am] Activity: S.V. Virgo Cape Day
+[December 15th 2016, 8:06:19 am] Activity: S.V. Virgo Gender In The Blender
+[December 15th 2016, 8:06:19 am] Activity: OT feest 1: Derde Helft
+[December 15th 2016, 8:06:19 am] Activity: Kroegenstorm S.V. Virgo
+[December 15th 2016, 8:06:19 am] Activity: VriMiBo S.V. Virgo
+[December 15th 2016, 8:06:19 am] Activity: Bal Masque Shots
+[December 15th 2016, 8:06:19 am] Activity: Dinsdagstart Periode 3
+[December 15th 2016, 8:06:19 am] Activity: Pré-carnaval SV Virgo
+[December 15th 2016, 8:06:19 am] Activity: Algemene leden vergadering S.V. Virgo
+[December 15th 2016, 8:06:19 am] Activity: Virgo Decemberfest.
+[December 15th 2016, 8:23:58 am] Database is connected ... nn
+[December 15th 2016, 9:11:03 am] POST /apiv1/activiteiten
+[December 15th 2016, 9:11:03 am] Database is connected ... nn
+[December 15th 2016, 9:11:03 am] Database is connected ... nn
+[December 15th 2016, 9:41:03 am] Database is connected ... nn
+[December 15th 2016, 10:18:48 am] POST /apiv1/activiteiten
+[December 15th 2016, 10:18:48 am] Database is connected ... nn
+[December 15th 2016, 10:18:48 am] Database is connected ... nn
+[December 15th 2016, 10:48:48 am] Database is connected ... nn
+[December 15th 2016, 11:49:05 am] POST /apiv1/activiteiten
+[December 15th 2016, 11:49:05 am] Database is connected ... nn
+[December 15th 2016, 11:49:05 am] Database is connected ... nn
+[December 15th 2016, 11:49:56 am] POST /apiv1/activiteiten
+[December 15th 2016, 11:49:56 am] Database is connected ... nn
+[December 15th 2016, 11:49:56 am] Activity: Virgo Pubquiz!
+[December 15th 2016, 11:49:56 am] Activity: Bierweek !
+[December 15th 2016, 11:49:56 am] Activity: Nerf Gun Mania
+[December 15th 2016, 11:49:56 am] Activity: OT feest 3: Kroegentocht
+[December 15th 2016, 11:49:56 am] Activity: 1000 Palm 2016
+[December 15th 2016, 11:49:56 am] Activity: Woensdagstart
+[December 15th 2016, 11:49:56 am] Activity: Inauguratie S.V. Virgo
+[December 15th 2016, 11:49:56 am] Activity: Donderdagstart Periode 1
+[December 15th 2016, 11:49:56 am] Activity: ALV 31/05/16 S.V. Virgo
+[December 15th 2016, 11:49:56 am] Activity: OT feest 2: Crazy 88
+[December 15th 2016, 11:49:56 am] Activity: Afterstress Barbecue S.V. Virgo
+[December 15th 2016, 11:49:56 am] Activity: Meiweek
+[December 15th 2016, 11:49:56 am] Activity: S.V. Virgo Donderdag start periode 4
+[December 15th 2016, 11:49:56 am] Activity: VriMiBo
+[December 15th 2016, 11:49:56 am] Activity: Virgo karaoke avond!
+[December 15th 2016, 11:49:56 am] Activity: Open podium & leden veiling
+[December 15th 2016, 11:49:56 am] Activity: S.V. Virgo Cape Day
+[December 15th 2016, 11:49:56 am] Activity: S.V. Virgo Gender In The Blender
+[December 15th 2016, 11:49:56 am] Activity: OT feest 1: Derde Helft
+[December 15th 2016, 11:49:56 am] Activity: Kroegenstorm S.V. Virgo
+[December 15th 2016, 11:49:56 am] Activity: VriMiBo S.V. Virgo
+[December 15th 2016, 11:49:56 am] Activity: Bal Masque Shots
+[December 15th 2016, 11:49:56 am] Activity: Dinsdagstart Periode 3
+[December 15th 2016, 11:49:56 am] Activity: Pré-carnaval SV Virgo
+[December 15th 2016, 11:49:56 am] Activity: Algemene leden vergadering S.V. Virgo
+[December 15th 2016, 11:49:56 am] Activity: Virgo Decemberfest.
+[December 15th 2016, 12:19:05 pm] Database is connected ... nn
+[December 15th 2016, 2:20:22 pm] POST /apiv1/activiteiten
+[December 15th 2016, 2:20:22 pm] Database is connected ... nn
+[December 15th 2016, 2:20:22 pm] Database is connected ... nn
+[December 15th 2016, 2:27:50 pm] POST /apiv1/activiteiten
+[December 15th 2016, 2:27:50 pm] Database is connected ... nn
+[December 15th 2016, 2:50:22 pm] Database is connected ... nn
+[December 15th 2016, 7:28:53 pm] POST /apiv1/activiteiten
+[December 15th 2016, 7:28:53 pm] Database is connected ... nn
+[December 15th 2016, 7:28:53 pm] Activity: Virgo Pubquiz!
+[December 15th 2016, 7:28:53 pm] Activity: Bierweek !
+[December 15th 2016, 7:28:53 pm] Activity: Nerf Gun Mania
+[December 15th 2016, 7:28:53 pm] Activity: OT feest 3: Kroegentocht
+[December 15th 2016, 7:28:53 pm] Activity: 1000 Palm 2016
+[December 15th 2016, 7:28:53 pm] Activity: Woensdagstart
+[December 15th 2016, 7:28:53 pm] Activity: Inauguratie S.V. Virgo
+[December 15th 2016, 7:28:53 pm] Activity: Donderdagstart Periode 1
+[December 15th 2016, 7:28:53 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 15th 2016, 7:28:53 pm] Activity: OT feest 2: Crazy 88
+[December 15th 2016, 7:28:53 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 15th 2016, 7:28:53 pm] Activity: Meiweek
+[December 15th 2016, 7:28:53 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 15th 2016, 7:28:53 pm] Activity: VriMiBo
+[December 15th 2016, 7:28:53 pm] Activity: Virgo karaoke avond!
+[December 15th 2016, 7:28:53 pm] Activity: Open podium & leden veiling
+[December 15th 2016, 7:28:53 pm] Activity: S.V. Virgo Cape Day
+[December 15th 2016, 7:28:53 pm] Activity: S.V. Virgo Gender In The Blender
+[December 15th 2016, 7:28:53 pm] Activity: OT feest 1: Derde Helft
+[December 15th 2016, 7:28:53 pm] Activity: Kroegenstorm S.V. Virgo
+[December 15th 2016, 7:28:53 pm] Activity: VriMiBo S.V. Virgo
+[December 15th 2016, 7:28:53 pm] Activity: Bal Masque Shots
+[December 15th 2016, 7:28:53 pm] Activity: Dinsdagstart Periode 3
+[December 15th 2016, 7:28:53 pm] Activity: Pré-carnaval SV Virgo
+[December 15th 2016, 7:28:53 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 15th 2016, 7:28:53 pm] Activity: Virgo Decemberfest.
+[December 15th 2016, 7:28:54 pm] Database is connected ... nn
+[December 15th 2016, 7:58:54 pm] Database is connected ... nn
+[December 15th 2016, 8:11:13 pm] POST /apiv1/activiteiten
+[December 15th 2016, 8:11:13 pm] Database is connected ... nn
+[December 15th 2016, 8:28:54 pm] Database is connected ... nn
+[December 16th 2016, 4:00:24 pm] POST /apiv1/activiteiten
+[December 16th 2016, 4:00:24 pm] Database is connected ... nn
+[December 16th 2016, 4:00:24 pm] Database is connected ... nn
+[December 16th 2016, 4:30:25 pm] Database is connected ... nn
+[December 16th 2016, 4:54:22 pm] POST /apiv1/activiteiten
+[December 16th 2016, 4:54:22 pm] Database is connected ... nn
+[December 16th 2016, 5:00:25 pm] Database is connected ... nn
+[December 16th 2016, 7:51:46 pm] POST /apiv1/activiteiten
+[December 16th 2016, 7:51:46 pm] Database is connected ... nn
+[December 16th 2016, 7:51:46 pm] Activity: Virgo Pubquiz!
+[December 16th 2016, 7:51:46 pm] Activity: Bierweek !
+[December 16th 2016, 7:51:46 pm] Activity: Nerf Gun Mania
+[December 16th 2016, 7:51:46 pm] Activity: OT feest 3: Kroegentocht
+[December 16th 2016, 7:51:46 pm] Activity: 1000 Palm 2016
+[December 16th 2016, 7:51:46 pm] Activity: Woensdagstart
+[December 16th 2016, 7:51:46 pm] Activity: Inauguratie S.V. Virgo
+[December 16th 2016, 7:51:46 pm] Activity: Donderdagstart Periode 1
+[December 16th 2016, 7:51:46 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 16th 2016, 7:51:46 pm] Activity: OT feest 2: Crazy 88
+[December 16th 2016, 7:51:46 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 16th 2016, 7:51:46 pm] Activity: Meiweek
+[December 16th 2016, 7:51:46 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 16th 2016, 7:51:46 pm] Activity: VriMiBo
+[December 16th 2016, 7:51:46 pm] Activity: Virgo karaoke avond!
+[December 16th 2016, 7:51:46 pm] Activity: Open podium & leden veiling
+[December 16th 2016, 7:51:46 pm] Activity: S.V. Virgo Cape Day
+[December 16th 2016, 7:51:46 pm] Activity: S.V. Virgo Gender In The Blender
+[December 16th 2016, 7:51:46 pm] Activity: OT feest 1: Derde Helft
+[December 16th 2016, 7:51:46 pm] Activity: Kroegenstorm S.V. Virgo
+[December 16th 2016, 7:51:46 pm] Activity: VriMiBo S.V. Virgo
+[December 16th 2016, 7:51:46 pm] Activity: Bal Masque Shots
+[December 16th 2016, 7:51:46 pm] Activity: Dinsdagstart Periode 3
+[December 16th 2016, 7:51:46 pm] Activity: Pré-carnaval SV Virgo
+[December 16th 2016, 7:51:46 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 16th 2016, 7:51:46 pm] Activity: Virgo Decemberfest.
+[December 16th 2016, 7:51:46 pm] Database is connected ... nn
+[December 16th 2016, 8:09:50 pm] POST /apiv1/activiteiten
+[December 16th 2016, 8:09:50 pm] Database is connected ... nn
+[December 16th 2016, 8:12:06 pm] POST /apiv1/activiteiten
+[December 16th 2016, 8:12:06 pm] Database is connected ... nn
+[December 16th 2016, 8:12:06 pm] Activity: Virgo Pubquiz!
+[December 16th 2016, 8:12:06 pm] Activity: Bierweek !
+[December 16th 2016, 8:12:06 pm] Activity: Nerf Gun Mania
+[December 16th 2016, 8:12:06 pm] Activity: OT feest 3: Kroegentocht
+[December 16th 2016, 8:12:06 pm] Activity: 1000 Palm 2016
+[December 16th 2016, 8:12:06 pm] Activity: Woensdagstart
+[December 16th 2016, 8:12:06 pm] Activity: Inauguratie S.V. Virgo
+[December 16th 2016, 8:12:06 pm] Activity: Donderdagstart Periode 1
+[December 16th 2016, 8:12:06 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 16th 2016, 8:12:06 pm] Activity: OT feest 2: Crazy 88
+[December 16th 2016, 8:12:06 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 16th 2016, 8:12:06 pm] Activity: Meiweek
+[December 16th 2016, 8:12:06 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 16th 2016, 8:12:06 pm] Activity: VriMiBo
+[December 16th 2016, 8:12:06 pm] Activity: Virgo karaoke avond!
+[December 16th 2016, 8:12:06 pm] Activity: Open podium & leden veiling
+[December 16th 2016, 8:12:06 pm] Activity: S.V. Virgo Cape Day
+[December 16th 2016, 8:12:06 pm] Activity: S.V. Virgo Gender In The Blender
+[December 16th 2016, 8:12:06 pm] Activity: OT feest 1: Derde Helft
+[December 16th 2016, 8:12:06 pm] Activity: Kroegenstorm S.V. Virgo
+[December 16th 2016, 8:12:06 pm] Activity: VriMiBo S.V. Virgo
+[December 16th 2016, 8:12:06 pm] Activity: Bal Masque Shots
+[December 16th 2016, 8:12:06 pm] Activity: Dinsdagstart Periode 3
+[December 16th 2016, 8:12:06 pm] Activity: Pré-carnaval SV Virgo
+[December 16th 2016, 8:12:06 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 16th 2016, 8:12:06 pm] Activity: Virgo Decemberfest.
+[December 16th 2016, 8:21:46 pm] Database is connected ... nn
+[December 16th 2016, 8:41:47 pm] POST /apiv1/activiteiten
+[December 16th 2016, 8:41:47 pm] Database is connected ... nn
+[December 16th 2016, 8:49:57 pm] POST /apiv1/activiteiten
+[December 16th 2016, 8:49:57 pm] Database is connected ... nn
+[December 16th 2016, 8:51:46 pm] Database is connected ... nn
+[December 16th 2016, 9:20:37 pm] POST /apiv1/activiteiten
+[December 16th 2016, 9:20:37 pm] Database is connected ... nn
+[December 16th 2016, 9:21:46 pm] Database is connected ... nn
+[December 16th 2016, 9:51:46 pm] Database is connected ... nn
+[December 16th 2016, 11:30:36 pm] POST /apiv1/activiteiten
+[December 16th 2016, 11:30:36 pm] Database is connected ... nn
+[December 16th 2016, 11:30:36 pm] Activity: Virgo Pubquiz!
+[December 16th 2016, 11:30:36 pm] Activity: Bierweek !
+[December 16th 2016, 11:30:36 pm] Activity: Nerf Gun Mania
+[December 16th 2016, 11:30:36 pm] Activity: OT feest 3: Kroegentocht
+[December 16th 2016, 11:30:36 pm] Activity: 1000 Palm 2016
+[December 16th 2016, 11:30:36 pm] Activity: Woensdagstart
+[December 16th 2016, 11:30:36 pm] Activity: Inauguratie S.V. Virgo
+[December 16th 2016, 11:30:36 pm] Activity: Donderdagstart Periode 1
+[December 16th 2016, 11:30:36 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 16th 2016, 11:30:36 pm] Activity: OT feest 2: Crazy 88
+[December 16th 2016, 11:30:36 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 16th 2016, 11:30:36 pm] Activity: Meiweek
+[December 16th 2016, 11:30:36 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 16th 2016, 11:30:36 pm] Activity: VriMiBo
+[December 16th 2016, 11:30:36 pm] Activity: Virgo karaoke avond!
+[December 16th 2016, 11:30:36 pm] Activity: Open podium & leden veiling
+[December 16th 2016, 11:30:36 pm] Activity: S.V. Virgo Cape Day
+[December 16th 2016, 11:30:36 pm] Activity: S.V. Virgo Gender In The Blender
+[December 16th 2016, 11:30:36 pm] Activity: OT feest 1: Derde Helft
+[December 16th 2016, 11:30:36 pm] Activity: Kroegenstorm S.V. Virgo
+[December 16th 2016, 11:30:36 pm] Activity: VriMiBo S.V. Virgo
+[December 16th 2016, 11:30:36 pm] Activity: Bal Masque Shots
+[December 16th 2016, 11:30:36 pm] Activity: Dinsdagstart Periode 3
+[December 16th 2016, 11:30:36 pm] Activity: Pré-carnaval SV Virgo
+[December 16th 2016, 11:30:36 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 16th 2016, 11:30:36 pm] Activity: Virgo Decemberfest.
+[December 16th 2016, 11:30:36 pm] Database is connected ... nn
+[December 17th 2016, 12:00:36 am] Database is connected ... nn
+[December 17th 2016, 2:00:08 pm] POST /apiv1/activiteiten
+[December 17th 2016, 2:00:08 pm] Database is connected ... nn
+[December 17th 2016, 2:00:08 pm] Activity: Virgo Pubquiz!
+[December 17th 2016, 2:00:08 pm] Activity: Bierweek !
+[December 17th 2016, 2:00:08 pm] Activity: Nerf Gun Mania
+[December 17th 2016, 2:00:08 pm] Activity: OT feest 3: Kroegentocht
+[December 17th 2016, 2:00:08 pm] Activity: 1000 Palm 2016
+[December 17th 2016, 2:00:08 pm] Activity: Woensdagstart
+[December 17th 2016, 2:00:08 pm] Activity: Inauguratie S.V. Virgo
+[December 17th 2016, 2:00:08 pm] Activity: Donderdagstart Periode 1
+[December 17th 2016, 2:00:08 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 17th 2016, 2:00:08 pm] Activity: OT feest 2: Crazy 88
+[December 17th 2016, 2:00:08 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 17th 2016, 2:00:08 pm] Activity: Meiweek
+[December 17th 2016, 2:00:08 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 17th 2016, 2:00:08 pm] Activity: VriMiBo
+[December 17th 2016, 2:00:08 pm] Activity: Virgo karaoke avond!
+[December 17th 2016, 2:00:08 pm] Activity: Open podium & leden veiling
+[December 17th 2016, 2:00:08 pm] Activity: S.V. Virgo Cape Day
+[December 17th 2016, 2:00:08 pm] Activity: S.V. Virgo Gender In The Blender
+[December 17th 2016, 2:00:08 pm] Activity: OT feest 1: Derde Helft
+[December 17th 2016, 2:00:08 pm] Activity: Kroegenstorm S.V. Virgo
+[December 17th 2016, 2:00:08 pm] Activity: VriMiBo S.V. Virgo
+[December 17th 2016, 2:00:08 pm] Activity: Bal Masque Shots
+[December 17th 2016, 2:00:08 pm] Activity: Dinsdagstart Periode 3
+[December 17th 2016, 2:00:08 pm] Activity: Pré-carnaval SV Virgo
+[December 17th 2016, 2:00:08 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 17th 2016, 2:00:08 pm] Activity: Virgo Decemberfest.
+[December 17th 2016, 2:00:08 pm] Database is connected ... nn
+[December 17th 2016, 2:30:08 pm] Database is connected ... nn
+[December 17th 2016, 3:55:19 pm] POST /apiv1/activiteiten
+[December 17th 2016, 3:55:19 pm] Database is connected ... nn
+[December 17th 2016, 3:55:19 pm] Database is connected ... nn
+[December 17th 2016, 4:25:20 pm] Database is connected ... nn
+[December 17th 2016, 4:50:55 pm] POST /apiv1/activiteiten
+[December 17th 2016, 4:50:55 pm] Database is connected ... nn
+[December 17th 2016, 4:55:20 pm] Database is connected ... nn
+[December 17th 2016, 6:24:17 pm] POST /apiv1/activiteiten
+[December 17th 2016, 6:24:17 pm] Database is connected ... nn
+[December 17th 2016, 6:24:17 pm] Activity: Virgo Pubquiz!
+[December 17th 2016, 6:24:17 pm] Activity: Bierweek !
+[December 17th 2016, 6:24:17 pm] Activity: Nerf Gun Mania
+[December 17th 2016, 6:24:17 pm] Activity: OT feest 3: Kroegentocht
+[December 17th 2016, 6:24:17 pm] Activity: 1000 Palm 2016
+[December 17th 2016, 6:24:17 pm] Activity: Woensdagstart
+[December 17th 2016, 6:24:17 pm] Activity: Inauguratie S.V. Virgo
+[December 17th 2016, 6:24:17 pm] Activity: Donderdagstart Periode 1
+[December 17th 2016, 6:24:17 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 17th 2016, 6:24:17 pm] Activity: OT feest 2: Crazy 88
+[December 17th 2016, 6:24:17 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 17th 2016, 6:24:17 pm] Activity: Meiweek
+[December 17th 2016, 6:24:17 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 17th 2016, 6:24:17 pm] Activity: VriMiBo
+[December 17th 2016, 6:24:17 pm] Activity: Virgo karaoke avond!
+[December 17th 2016, 6:24:17 pm] Activity: Open podium & leden veiling
+[December 17th 2016, 6:24:17 pm] Activity: S.V. Virgo Cape Day
+[December 17th 2016, 6:24:17 pm] Activity: S.V. Virgo Gender In The Blender
+[December 17th 2016, 6:24:17 pm] Activity: OT feest 1: Derde Helft
+[December 17th 2016, 6:24:17 pm] Activity: Kroegenstorm S.V. Virgo
+[December 17th 2016, 6:24:17 pm] Activity: VriMiBo S.V. Virgo
+[December 17th 2016, 6:24:17 pm] Activity: Bal Masque Shots
+[December 17th 2016, 6:24:17 pm] Activity: Dinsdagstart Periode 3
+[December 17th 2016, 6:24:17 pm] Activity: Pré-carnaval SV Virgo
+[December 17th 2016, 6:24:17 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 17th 2016, 6:24:17 pm] Activity: Virgo Decemberfest.
+[December 17th 2016, 6:24:17 pm] Database is connected ... nn
+[December 17th 2016, 6:54:17 pm] Database is connected ... nn
+[December 17th 2016, 7:26:59 pm] POST /apiv1/activiteiten
+[December 17th 2016, 7:26:59 pm] Database is connected ... nn
+[December 17th 2016, 7:26:59 pm] Database is connected ... nn
+[December 17th 2016, 7:56:59 pm] Database is connected ... nn
+[December 17th 2016, 9:26:16 pm] POST /apiv1/activiteiten
+[December 17th 2016, 9:26:16 pm] Database is connected ... nn
+[December 17th 2016, 9:26:16 pm] Database is connected ... nn
+[December 17th 2016, 9:56:16 pm] Database is connected ... nn
+[December 17th 2016, 10:46:54 pm] POST /apiv1/activiteiten
+[December 17th 2016, 10:46:54 pm] Database is connected ... nn
+[December 17th 2016, 10:46:54 pm] Database is connected ... nn
+[December 17th 2016, 11:15:14 pm] POST /apiv1/activiteiten
+[December 17th 2016, 11:15:14 pm] Database is connected ... nn
+[December 17th 2016, 11:15:14 pm] Activity: Virgo Pubquiz!
+[December 17th 2016, 11:15:14 pm] Activity: Bierweek !
+[December 17th 2016, 11:15:14 pm] Activity: Nerf Gun Mania
+[December 17th 2016, 11:15:14 pm] Activity: OT feest 3: Kroegentocht
+[December 17th 2016, 11:15:14 pm] Activity: 1000 Palm 2016
+[December 17th 2016, 11:15:14 pm] Activity: Woensdagstart
+[December 17th 2016, 11:15:14 pm] Activity: Inauguratie S.V. Virgo
+[December 17th 2016, 11:15:14 pm] Activity: Donderdagstart Periode 1
+[December 17th 2016, 11:15:14 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 17th 2016, 11:15:14 pm] Activity: OT feest 2: Crazy 88
+[December 17th 2016, 11:15:14 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 17th 2016, 11:15:14 pm] Activity: Meiweek
+[December 17th 2016, 11:15:14 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 17th 2016, 11:15:14 pm] Activity: VriMiBo
+[December 17th 2016, 11:15:14 pm] Activity: Virgo karaoke avond!
+[December 17th 2016, 11:15:14 pm] Activity: Open podium & leden veiling
+[December 17th 2016, 11:15:14 pm] Activity: S.V. Virgo Cape Day
+[December 17th 2016, 11:15:14 pm] Activity: S.V. Virgo Gender In The Blender
+[December 17th 2016, 11:15:14 pm] Activity: OT feest 1: Derde Helft
+[December 17th 2016, 11:15:14 pm] Activity: Kroegenstorm S.V. Virgo
+[December 17th 2016, 11:15:14 pm] Activity: VriMiBo S.V. Virgo
+[December 17th 2016, 11:15:14 pm] Activity: Bal Masque Shots
+[December 17th 2016, 11:15:14 pm] Activity: Dinsdagstart Periode 3
+[December 17th 2016, 11:15:14 pm] Activity: Pré-carnaval SV Virgo
+[December 17th 2016, 11:15:14 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 17th 2016, 11:15:14 pm] Activity: Virgo Decemberfest.
+[December 17th 2016, 11:16:54 pm] Database is connected ... nn
+[December 17th 2016, 11:46:54 pm] Database is connected ... nn
+[December 18th 2016, 4:22:29 am] POST /apiv1/activiteiten
+[December 18th 2016, 4:22:29 am] Database is connected ... nn
+[December 18th 2016, 4:22:29 am] Database is connected ... nn
+[December 18th 2016, 4:52:29 am] Database is connected ... nn
+[December 18th 2016, 7:15:45 am] POST /apiv1/activiteiten
+[December 18th 2016, 7:15:45 am] Database is connected ... nn
+[December 18th 2016, 7:15:45 am] Database is connected ... nn
+[December 18th 2016, 7:45:45 am] Database is connected ... nn
+[December 18th 2016, 1:03:14 pm] POST /apiv1/activiteiten
+[December 18th 2016, 1:03:14 pm] Database is connected ... nn
+[December 18th 2016, 1:03:14 pm] Database is connected ... nn
+[December 18th 2016, 1:33:14 pm] Database is connected ... nn
+[December 18th 2016, 7:23:53 pm] POST /apiv1/activiteiten
+[December 18th 2016, 7:23:53 pm] Database is connected ... nn
+[December 18th 2016, 7:23:53 pm] Activity: Virgo Pubquiz!
+[December 18th 2016, 7:23:53 pm] Activity: Bierweek !
+[December 18th 2016, 7:23:53 pm] Activity: Nerf Gun Mania
+[December 18th 2016, 7:23:53 pm] Activity: OT feest 3: Kroegentocht
+[December 18th 2016, 7:23:53 pm] Activity: 1000 Palm 2016
+[December 18th 2016, 7:23:53 pm] Activity: Woensdagstart
+[December 18th 2016, 7:23:53 pm] Activity: Inauguratie S.V. Virgo
+[December 18th 2016, 7:23:53 pm] Activity: Donderdagstart Periode 1
+[December 18th 2016, 7:23:53 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 18th 2016, 7:23:53 pm] Activity: OT feest 2: Crazy 88
+[December 18th 2016, 7:23:53 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 18th 2016, 7:23:53 pm] Activity: Meiweek
+[December 18th 2016, 7:23:53 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 18th 2016, 7:23:53 pm] Activity: VriMiBo
+[December 18th 2016, 7:23:53 pm] Activity: Virgo karaoke avond!
+[December 18th 2016, 7:23:53 pm] Activity: Open podium & leden veiling
+[December 18th 2016, 7:23:53 pm] Activity: S.V. Virgo Cape Day
+[December 18th 2016, 7:23:53 pm] Activity: S.V. Virgo Gender In The Blender
+[December 18th 2016, 7:23:53 pm] Activity: OT feest 1: Derde Helft
+[December 18th 2016, 7:23:53 pm] Activity: Kroegenstorm S.V. Virgo
+[December 18th 2016, 7:23:53 pm] Activity: VriMiBo S.V. Virgo
+[December 18th 2016, 7:23:53 pm] Activity: Bal Masque Shots
+[December 18th 2016, 7:23:53 pm] Activity: Dinsdagstart Periode 3
+[December 18th 2016, 7:23:53 pm] Activity: Pré-carnaval SV Virgo
+[December 18th 2016, 7:23:53 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 18th 2016, 7:23:53 pm] Activity: Virgo Decemberfest.
+[December 18th 2016, 7:23:53 pm] Database is connected ... nn
+[December 18th 2016, 7:53:53 pm] Database is connected ... nn
+[December 18th 2016, 10:47:03 pm] POST /apiv1/activiteiten
+[December 18th 2016, 10:47:03 pm] Database is connected ... nn
+[December 18th 2016, 10:47:03 pm] Activity: Virgo Pubquiz!
+[December 18th 2016, 10:47:03 pm] Activity: Bierweek !
+[December 18th 2016, 10:47:03 pm] Activity: Nerf Gun Mania
+[December 18th 2016, 10:47:03 pm] Activity: OT feest 3: Kroegentocht
+[December 18th 2016, 10:47:03 pm] Activity: 1000 Palm 2016
+[December 18th 2016, 10:47:03 pm] Activity: Woensdagstart
+[December 18th 2016, 10:47:03 pm] Activity: Inauguratie S.V. Virgo
+[December 18th 2016, 10:47:03 pm] Activity: Donderdagstart Periode 1
+[December 18th 2016, 10:47:03 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 18th 2016, 10:47:03 pm] Activity: OT feest 2: Crazy 88
+[December 18th 2016, 10:47:03 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 18th 2016, 10:47:03 pm] Activity: Meiweek
+[December 18th 2016, 10:47:03 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 18th 2016, 10:47:03 pm] Activity: VriMiBo
+[December 18th 2016, 10:47:03 pm] Activity: Virgo karaoke avond!
+[December 18th 2016, 10:47:03 pm] Activity: Open podium & leden veiling
+[December 18th 2016, 10:47:03 pm] Activity: S.V. Virgo Cape Day
+[December 18th 2016, 10:47:03 pm] Activity: S.V. Virgo Gender In The Blender
+[December 18th 2016, 10:47:03 pm] Activity: OT feest 1: Derde Helft
+[December 18th 2016, 10:47:03 pm] Activity: Kroegenstorm S.V. Virgo
+[December 18th 2016, 10:47:03 pm] Activity: VriMiBo S.V. Virgo
+[December 18th 2016, 10:47:03 pm] Activity: Bal Masque Shots
+[December 18th 2016, 10:47:03 pm] Activity: Dinsdagstart Periode 3
+[December 18th 2016, 10:47:03 pm] Activity: Pré-carnaval SV Virgo
+[December 18th 2016, 10:47:03 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 18th 2016, 10:47:03 pm] Activity: Virgo Decemberfest.
+[December 18th 2016, 10:47:03 pm] Database is connected ... nn
+[December 18th 2016, 11:17:03 pm] Database is connected ... nn
+[December 19th 2016, 12:05:53 pm] Database is connected ... nn
+[December 19th 2016, 12:05:54 pm] POST /apiv1/activiteiten
+[December 19th 2016, 12:05:54 pm] Database is connected ... nn
+[December 19th 2016, 12:35:54 pm] Database is connected ... nn
+[December 19th 2016, 1:36:48 pm] POST /apiv1/activiteiten
+[December 19th 2016, 1:36:48 pm] Database is connected ... nn
+[December 19th 2016, 1:36:49 pm] Database is connected ... nn
+[December 19th 2016, 2:06:49 pm] Database is connected ... nn
+[December 19th 2016, 2:31:19 pm] POST /apiv1/activiteiten
+[December 19th 2016, 2:31:19 pm] Database is connected ... nn
+[December 19th 2016, 2:36:49 pm] Database is connected ... nn
+[December 19th 2016, 3:13:05 pm] POST /apiv1/activiteiten
+[December 19th 2016, 3:13:05 pm] Database is connected ... nn
+[December 19th 2016, 3:13:05 pm] Database is connected ... nn
+[December 19th 2016, 3:13:14 pm] POST /apiv1/activiteiten
+[December 19th 2016, 3:13:14 pm] Database is connected ... nn
+[December 19th 2016, 3:13:14 pm] Activity: Virgo Pubquiz!
+[December 19th 2016, 3:13:14 pm] Activity: Bierweek !
+[December 19th 2016, 3:13:14 pm] Activity: Nerf Gun Mania
+[December 19th 2016, 3:13:14 pm] Activity: OT feest 3: Kroegentocht
+[December 19th 2016, 3:13:14 pm] Activity: 1000 Palm 2016
+[December 19th 2016, 3:13:14 pm] Activity: Woensdagstart
+[December 19th 2016, 3:13:14 pm] Activity: Inauguratie S.V. Virgo
+[December 19th 2016, 3:13:14 pm] Activity: Donderdagstart Periode 1
+[December 19th 2016, 3:13:14 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 19th 2016, 3:13:14 pm] Activity: OT feest 2: Crazy 88
+[December 19th 2016, 3:13:14 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 19th 2016, 3:13:14 pm] Activity: Meiweek
+[December 19th 2016, 3:13:14 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 19th 2016, 3:13:14 pm] Activity: VriMiBo
+[December 19th 2016, 3:13:14 pm] Activity: Virgo karaoke avond!
+[December 19th 2016, 3:13:14 pm] Activity: Open podium & leden veiling
+[December 19th 2016, 3:13:14 pm] Activity: S.V. Virgo Cape Day
+[December 19th 2016, 3:13:14 pm] Activity: S.V. Virgo Gender In The Blender
+[December 19th 2016, 3:13:14 pm] Activity: OT feest 1: Derde Helft
+[December 19th 2016, 3:13:14 pm] Activity: Kroegenstorm S.V. Virgo
+[December 19th 2016, 3:13:14 pm] Activity: VriMiBo S.V. Virgo
+[December 19th 2016, 3:13:14 pm] Activity: Bal Masque Shots
+[December 19th 2016, 3:13:14 pm] Activity: Dinsdagstart Periode 3
+[December 19th 2016, 3:13:14 pm] Activity: Pré-carnaval SV Virgo
+[December 19th 2016, 3:13:14 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 19th 2016, 3:13:14 pm] Activity: Virgo Decemberfest.
+[December 19th 2016, 3:43:05 pm] Database is connected ... nn
+[December 19th 2016, 7:01:13 pm] POST /apiv1/activiteiten
+[December 19th 2016, 7:01:13 pm] Database is connected ... nn
+[December 19th 2016, 7:01:13 pm] Database is connected ... nn
+[December 19th 2016, 7:31:13 pm] Database is connected ... nn
+[December 19th 2016, 7:52:29 pm] POST /apiv1/activiteiten
+[December 19th 2016, 7:52:29 pm] Database is connected ... nn
+[December 19th 2016, 8:01:13 pm] Database is connected ... nn
+[December 19th 2016, 8:23:30 pm] POST /apiv1/activiteiten
+[December 19th 2016, 8:23:30 pm] Database is connected ... nn
+[December 19th 2016, 8:24:34 pm] POST /apiv1/activiteiten
+[December 19th 2016, 8:24:34 pm] Database is connected ... nn
+[December 19th 2016, 8:31:13 pm] Database is connected ... nn
+[December 19th 2016, 9:57:36 pm] POST /apiv1/activiteiten
+[December 19th 2016, 9:57:36 pm] Database is connected ... nn
+[December 19th 2016, 9:57:36 pm] Database is connected ... nn
+[December 19th 2016, 10:27:36 pm] Database is connected ... nn
+[December 20th 2016, 9:25:39 am] POST /apiv1/activiteiten
+[December 20th 2016, 9:25:39 am] Database is connected ... nn
+[December 20th 2016, 9:25:39 am] Database is connected ... nn
+[December 20th 2016, 9:55:39 am] Database is connected ... nn
+[December 20th 2016, 10:12:20 am] POST /apiv1/activiteiten
+[December 20th 2016, 10:12:20 am] Database is connected ... nn
+[December 20th 2016, 10:12:20 am] Activity: Virgo Pubquiz!
+[December 20th 2016, 10:12:20 am] Activity: Bierweek !
+[December 20th 2016, 10:12:20 am] Activity: Nerf Gun Mania
+[December 20th 2016, 10:12:20 am] Activity: OT feest 3: Kroegentocht
+[December 20th 2016, 10:12:20 am] Activity: 1000 Palm 2016
+[December 20th 2016, 10:12:20 am] Activity: Woensdagstart
+[December 20th 2016, 10:12:20 am] Activity: Inauguratie S.V. Virgo
+[December 20th 2016, 10:12:20 am] Activity: Donderdagstart Periode 1
+[December 20th 2016, 10:12:20 am] Activity: ALV 31/05/16 S.V. Virgo
+[December 20th 2016, 10:12:20 am] Activity: OT feest 2: Crazy 88
+[December 20th 2016, 10:12:20 am] Activity: Afterstress Barbecue S.V. Virgo
+[December 20th 2016, 10:12:20 am] Activity: Meiweek
+[December 20th 2016, 10:12:20 am] Activity: S.V. Virgo Donderdag start periode 4
+[December 20th 2016, 10:12:20 am] Activity: VriMiBo
+[December 20th 2016, 10:12:20 am] Activity: Virgo karaoke avond!
+[December 20th 2016, 10:12:20 am] Activity: Open podium & leden veiling
+[December 20th 2016, 10:12:20 am] Activity: S.V. Virgo Cape Day
+[December 20th 2016, 10:12:20 am] Activity: S.V. Virgo Gender In The Blender
+[December 20th 2016, 10:12:20 am] Activity: OT feest 1: Derde Helft
+[December 20th 2016, 10:12:20 am] Activity: Kroegenstorm S.V. Virgo
+[December 20th 2016, 10:12:20 am] Activity: VriMiBo S.V. Virgo
+[December 20th 2016, 10:12:20 am] Activity: Bal Masque Shots
+[December 20th 2016, 10:12:20 am] Activity: Dinsdagstart Periode 3
+[December 20th 2016, 10:12:20 am] Activity: Pré-carnaval SV Virgo
+[December 20th 2016, 10:12:20 am] Activity: Algemene leden vergadering S.V. Virgo
+[December 20th 2016, 10:12:20 am] Activity: Virgo Decemberfest.
+[December 20th 2016, 10:25:39 am] Database is connected ... nn
+[December 20th 2016, 10:50:52 am] POST /apiv1/activiteiten
+[December 20th 2016, 10:50:52 am] Database is connected ... nn
+[December 20th 2016, 10:55:39 am] Database is connected ... nn
+[December 20th 2016, 2:11:00 pm] POST /apiv1/activiteiten
+[December 20th 2016, 2:11:00 pm] Database is connected ... nn
+[December 20th 2016, 2:11:00 pm] Activity: Virgo Pubquiz!
+[December 20th 2016, 2:11:00 pm] Activity: Bierweek !
+[December 20th 2016, 2:11:00 pm] Activity: Nerf Gun Mania
+[December 20th 2016, 2:11:00 pm] Activity: OT feest 3: Kroegentocht
+[December 20th 2016, 2:11:00 pm] Activity: 1000 Palm 2016
+[December 20th 2016, 2:11:00 pm] Activity: Woensdagstart
+[December 20th 2016, 2:11:00 pm] Activity: Inauguratie S.V. Virgo
+[December 20th 2016, 2:11:00 pm] Activity: Donderdagstart Periode 1
+[December 20th 2016, 2:11:00 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 20th 2016, 2:11:00 pm] Activity: OT feest 2: Crazy 88
+[December 20th 2016, 2:11:00 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 20th 2016, 2:11:00 pm] Activity: Meiweek
+[December 20th 2016, 2:11:00 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 20th 2016, 2:11:00 pm] Activity: VriMiBo
+[December 20th 2016, 2:11:00 pm] Activity: Virgo karaoke avond!
+[December 20th 2016, 2:11:00 pm] Activity: Open podium & leden veiling
+[December 20th 2016, 2:11:00 pm] Activity: S.V. Virgo Cape Day
+[December 20th 2016, 2:11:00 pm] Activity: S.V. Virgo Gender In The Blender
+[December 20th 2016, 2:11:00 pm] Activity: OT feest 1: Derde Helft
+[December 20th 2016, 2:11:00 pm] Activity: Kroegenstorm S.V. Virgo
+[December 20th 2016, 2:11:00 pm] Activity: VriMiBo S.V. Virgo
+[December 20th 2016, 2:11:00 pm] Activity: Bal Masque Shots
+[December 20th 2016, 2:11:00 pm] Activity: Dinsdagstart Periode 3
+[December 20th 2016, 2:11:00 pm] Activity: Pré-carnaval SV Virgo
+[December 20th 2016, 2:11:00 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 20th 2016, 2:11:00 pm] Activity: Virgo Decemberfest.
+[December 20th 2016, 2:11:00 pm] Database is connected ... nn
+[December 20th 2016, 2:41:00 pm] Database is connected ... nn
+[December 20th 2016, 6:41:50 pm] POST /apiv1/activiteiten
+[December 20th 2016, 6:41:50 pm] Database is connected ... nn
+[December 20th 2016, 6:41:50 pm] Activity: Virgo Pubquiz!
+[December 20th 2016, 6:41:50 pm] Activity: Bierweek !
+[December 20th 2016, 6:41:50 pm] Activity: Nerf Gun Mania
+[December 20th 2016, 6:41:50 pm] Activity: OT feest 3: Kroegentocht
+[December 20th 2016, 6:41:50 pm] Activity: 1000 Palm 2016
+[December 20th 2016, 6:41:50 pm] Activity: Woensdagstart
+[December 20th 2016, 6:41:50 pm] Activity: Inauguratie S.V. Virgo
+[December 20th 2016, 6:41:50 pm] Activity: Donderdagstart Periode 1
+[December 20th 2016, 6:41:50 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 20th 2016, 6:41:50 pm] Activity: OT feest 2: Crazy 88
+[December 20th 2016, 6:41:50 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 20th 2016, 6:41:50 pm] Activity: Meiweek
+[December 20th 2016, 6:41:50 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 20th 2016, 6:41:50 pm] Activity: VriMiBo
+[December 20th 2016, 6:41:50 pm] Activity: Virgo karaoke avond!
+[December 20th 2016, 6:41:50 pm] Activity: Open podium & leden veiling
+[December 20th 2016, 6:41:50 pm] Activity: S.V. Virgo Cape Day
+[December 20th 2016, 6:41:50 pm] Activity: S.V. Virgo Gender In The Blender
+[December 20th 2016, 6:41:50 pm] Activity: OT feest 1: Derde Helft
+[December 20th 2016, 6:41:50 pm] Activity: Kroegenstorm S.V. Virgo
+[December 20th 2016, 6:41:50 pm] Activity: VriMiBo S.V. Virgo
+[December 20th 2016, 6:41:50 pm] Activity: Bal Masque Shots
+[December 20th 2016, 6:41:50 pm] Activity: Dinsdagstart Periode 3
+[December 20th 2016, 6:41:50 pm] Activity: Pré-carnaval SV Virgo
+[December 20th 2016, 6:41:50 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 20th 2016, 6:41:50 pm] Activity: Virgo Decemberfest.
+[December 20th 2016, 6:41:51 pm] Database is connected ... nn
+[December 20th 2016, 7:11:51 pm] Database is connected ... nn
+[December 20th 2016, 7:19:03 pm] GET /
+[December 20th 2016, 7:41:51 pm] Database is connected ... nn
+[December 20th 2016, 8:11:49 pm] POST /apiv1/activiteiten
+[December 20th 2016, 8:11:49 pm] Database is connected ... nn
+[December 20th 2016, 8:11:51 pm] Database is connected ... nn
+[December 20th 2016, 9:04:02 pm] POST /apiv1/activiteiten
+[December 20th 2016, 9:04:02 pm] Database is connected ... nn
+[December 20th 2016, 9:04:02 pm] Activity: Virgo Pubquiz!
+[December 20th 2016, 9:04:02 pm] Activity: Bierweek !
+[December 20th 2016, 9:04:02 pm] Activity: Nerf Gun Mania
+[December 20th 2016, 9:04:02 pm] Activity: OT feest 3: Kroegentocht
+[December 20th 2016, 9:04:02 pm] Activity: 1000 Palm 2016
+[December 20th 2016, 9:04:02 pm] Activity: Woensdagstart
+[December 20th 2016, 9:04:02 pm] Activity: Inauguratie S.V. Virgo
+[December 20th 2016, 9:04:02 pm] Activity: Donderdagstart Periode 1
+[December 20th 2016, 9:04:02 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 20th 2016, 9:04:02 pm] Activity: OT feest 2: Crazy 88
+[December 20th 2016, 9:04:02 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 20th 2016, 9:04:02 pm] Activity: Meiweek
+[December 20th 2016, 9:04:02 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 20th 2016, 9:04:02 pm] Activity: VriMiBo
+[December 20th 2016, 9:04:02 pm] Activity: Virgo karaoke avond!
+[December 20th 2016, 9:04:02 pm] Activity: Open podium & leden veiling
+[December 20th 2016, 9:04:02 pm] Activity: S.V. Virgo Cape Day
+[December 20th 2016, 9:04:02 pm] Activity: S.V. Virgo Gender In The Blender
+[December 20th 2016, 9:04:02 pm] Activity: OT feest 1: Derde Helft
+[December 20th 2016, 9:04:02 pm] Activity: Kroegenstorm S.V. Virgo
+[December 20th 2016, 9:04:02 pm] Activity: VriMiBo S.V. Virgo
+[December 20th 2016, 9:04:02 pm] Activity: Bal Masque Shots
+[December 20th 2016, 9:04:02 pm] Activity: Dinsdagstart Periode 3
+[December 20th 2016, 9:04:02 pm] Activity: Pré-carnaval SV Virgo
+[December 20th 2016, 9:04:02 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 20th 2016, 9:04:02 pm] Activity: Virgo Decemberfest.
+[December 20th 2016, 9:04:02 pm] Database is connected ... nn
+[December 20th 2016, 9:34:02 pm] Database is connected ... nn
+[December 20th 2016, 10:13:26 pm] POST /apiv1/activiteiten
+[December 20th 2016, 10:13:26 pm] Database is connected ... nn
+[December 20th 2016, 10:13:26 pm] Database is connected ... nn
+[December 20th 2016, 10:43:26 pm] Database is connected ... nn
+[December 21st 2016, 12:38:34 am] POST /apiv1/activiteiten
+[December 21st 2016, 12:38:34 am] Database is connected ... nn
+[December 21st 2016, 12:38:35 am] Database is connected ... nn
+[December 21st 2016, 1:08:35 am] Database is connected ... nn
+[December 21st 2016, 7:19:43 am] POST /apiv1/activiteiten
+[December 21st 2016, 7:19:43 am] Database is connected ... nn
+[December 21st 2016, 7:19:43 am] Database is connected ... nn
+[December 21st 2016, 7:49:43 am] Database is connected ... nn
+[December 21st 2016, 11:04:05 am] POST /apiv1/activiteiten
+[December 21st 2016, 11:04:05 am] Database is connected ... nn
+[December 21st 2016, 11:04:05 am] Database is connected ... nn
+[December 21st 2016, 11:20:04 am] POST /apiv1/activiteiten
+[December 21st 2016, 11:20:04 am] Database is connected ... nn
+[December 21st 2016, 11:34:06 am] Database is connected ... nn
+[December 21st 2016, 2:34:21 pm] Database is connected ... nn
+[December 21st 2016, 2:34:21 pm] POST /apiv1/activiteiten
+[December 21st 2016, 2:34:21 pm] Database is connected ... nn
+[December 21st 2016, 3:04:22 pm] Database is connected ... nn
+[December 21st 2016, 4:34:11 pm] POST /apiv1/activiteiten
+[December 21st 2016, 4:34:11 pm] Database is connected ... nn
+[December 21st 2016, 4:34:11 pm] Database is connected ... nn
+[December 21st 2016, 5:04:11 pm] Database is connected ... nn
+[December 21st 2016, 9:56:50 pm] POST /apiv1/activiteiten
+[December 21st 2016, 9:56:50 pm] Database is connected ... nn
+[December 21st 2016, 9:56:50 pm] Database is connected ... nn
+[December 21st 2016, 10:26:51 pm] Database is connected ... nn
+[December 22nd 2016, 10:57:04 am] POST /apiv1/activiteiten
+[December 22nd 2016, 10:57:04 am] Database is connected ... nn
+[December 22nd 2016, 10:57:04 am] Database is connected ... nn
+[December 22nd 2016, 11:27:04 am] Database is connected ... nn
+[December 22nd 2016, 1:48:59 pm] GET /
+[December 22nd 2016, 1:48:59 pm] Database is connected ... nn
+[December 22nd 2016, 2:40:01 pm] POST /apiv1/activiteiten
+[December 22nd 2016, 2:40:01 pm] Database is connected ... nn
+[December 22nd 2016, 2:40:01 pm] Database is connected ... nn
+[December 22nd 2016, 3:10:01 pm] Database is connected ... nn
+[December 22nd 2016, 4:15:33 pm] POST /apiv1/activiteiten
+[December 22nd 2016, 4:15:33 pm] Database is connected ... nn
+[December 22nd 2016, 4:15:33 pm] Database is connected ... nn
+[December 22nd 2016, 4:45:33 pm] Database is connected ... nn
+[December 23rd 2016, 8:35:20 am] POST /apiv1/activiteiten
+[December 23rd 2016, 8:35:20 am] Database is connected ... nn
+[December 23rd 2016, 8:35:20 am] Database is connected ... nn
+[December 23rd 2016, 9:05:20 am] Database is connected ... nn
+[December 23rd 2016, 2:52:27 pm] POST /apiv1/activiteiten
+[December 23rd 2016, 2:52:27 pm] Database is connected ... nn
+[December 23rd 2016, 2:52:27 pm] Database is connected ... nn
+[December 23rd 2016, 3:22:27 pm] Database is connected ... nn
+[December 23rd 2016, 4:04:18 pm] POST /apiv1/activiteiten
+[December 23rd 2016, 4:04:18 pm] Database is connected ... nn
+[December 23rd 2016, 4:04:18 pm] Database is connected ... nn
+[December 23rd 2016, 4:34:18 pm] Database is connected ... nn
+[December 24th 2016, 3:17:32 pm] POST /apiv1/activiteiten
+[December 24th 2016, 3:17:32 pm] Database is connected ... nn
+[December 24th 2016, 3:17:32 pm] Activity: Virgo Pubquiz!
+[December 24th 2016, 3:17:32 pm] Activity: Bierweek !
+[December 24th 2016, 3:17:32 pm] Activity: Nerf Gun Mania
+[December 24th 2016, 3:17:32 pm] Activity: OT feest 3: Kroegentocht
+[December 24th 2016, 3:17:32 pm] Activity: 1000 Palm 2016
+[December 24th 2016, 3:17:32 pm] Activity: Woensdagstart
+[December 24th 2016, 3:17:32 pm] Activity: Inauguratie S.V. Virgo
+[December 24th 2016, 3:17:32 pm] Activity: Donderdagstart Periode 1
+[December 24th 2016, 3:17:32 pm] Activity: ALV 31/05/16 S.V. Virgo
+[December 24th 2016, 3:17:32 pm] Activity: OT feest 2: Crazy 88
+[December 24th 2016, 3:17:32 pm] Activity: Afterstress Barbecue S.V. Virgo
+[December 24th 2016, 3:17:32 pm] Activity: Meiweek
+[December 24th 2016, 3:17:32 pm] Activity: S.V. Virgo Donderdag start periode 4
+[December 24th 2016, 3:17:32 pm] Activity: VriMiBo
+[December 24th 2016, 3:17:32 pm] Activity: Virgo karaoke avond!
+[December 24th 2016, 3:17:32 pm] Activity: Open podium & leden veiling
+[December 24th 2016, 3:17:32 pm] Activity: S.V. Virgo Cape Day
+[December 24th 2016, 3:17:32 pm] Activity: S.V. Virgo Gender In The Blender
+[December 24th 2016, 3:17:32 pm] Activity: OT feest 1: Derde Helft
+[December 24th 2016, 3:17:32 pm] Activity: Kroegenstorm S.V. Virgo
+[December 24th 2016, 3:17:32 pm] Activity: VriMiBo S.V. Virgo
+[December 24th 2016, 3:17:32 pm] Activity: Bal Masque Shots
+[December 24th 2016, 3:17:32 pm] Activity: Dinsdagstart Periode 3
+[December 24th 2016, 3:17:32 pm] Activity: Pré-carnaval SV Virgo
+[December 24th 2016, 3:17:32 pm] Activity: Algemene leden vergadering S.V. Virgo
+[December 24th 2016, 3:17:32 pm] Activity: Virgo Decemberfest.
+[December 24th 2016, 3:17:32 pm] Database is connected ... nn
+[December 24th 2016, 3:47:32 pm] Database is connected ... nn
+[December 24th 2016, 9:55:22 pm] POST /apiv1/activiteiten
+[December 24th 2016, 9:55:22 pm] Database is connected ... nn
+[December 24th 2016, 9:55:23 pm] Database is connected ... nn
+[December 24th 2016, 10:25:23 pm] Database is connected ... nn
+[December 25th 2016, 11:00:51 am] POST /apiv1/activiteiten
+[December 25th 2016, 11:00:51 am] Database is connected ... nn
+[December 25th 2016, 11:00:51 am] Database is connected ... nn
+[December 25th 2016, 11:11:10 am] POST /apiv1/activiteiten
+[December 25th 2016, 11:11:10 am] Database is connected ... nn
+[December 25th 2016, 11:30:51 am] Database is connected ... nn
+[December 25th 2016, 4:18:23 pm] POST /apiv1/activiteiten
+[December 25th 2016, 4:18:23 pm] Database is connected ... nn
+[December 25th 2016, 4:18:23 pm] Database is connected ... nn
+[December 25th 2016, 4:48:23 pm] Database is connected ... nn
+[December 25th 2016, 5:55:31 pm] POST /apiv1/activiteiten
+[December 25th 2016, 5:55:31 pm] Database is connected ... nn
+[December 25th 2016, 5:55:31 pm] Database is connected ... nn
+[December 25th 2016, 6:25:32 pm] Database is connected ... nn
+[December 25th 2016, 6:45:46 pm] POST /apiv1/activiteiten
+[December 25th 2016, 6:45:46 pm] Database is connected ... nn
+[December 25th 2016, 6:55:32 pm] Database is connected ... nn
+[December 25th 2016, 11:05:15 pm] POST /apiv1/activiteiten
+[December 25th 2016, 11:05:15 pm] Database is connected ... nn
+[December 25th 2016, 11:05:15 pm] Database is connected ... nn
+[December 25th 2016, 11:35:15 pm] Database is connected ... nn
+[December 26th 2016, 12:17:48 am] POST /apiv1/activiteiten
+[December 26th 2016, 12:17:48 am] Database is connected ... nn
+[December 26th 2016, 12:17:49 am] Database is connected ... nn
+[December 26th 2016, 12:47:49 am] Database is connected ... nn
+[December 26th 2016, 1:29:47 pm] Database is connected ... nn
+[December 26th 2016, 1:29:47 pm] POST /apiv1/activiteiten
+[December 26th 2016, 1:29:47 pm] Database is connected ... nn
+[December 26th 2016, 1:59:47 pm] Database is connected ... nn
+[December 26th 2016, 3:12:04 pm] POST /apiv1/activiteiten
+[December 26th 2016, 3:12:04 pm] Database is connected ... nn
+[December 26th 2016, 3:12:04 pm] Database is connected ... nn
+[December 26th 2016, 3:42:04 pm] Database is connected ... nn
+[December 26th 2016, 10:24:39 pm] POST /apiv1/activiteiten
+[December 26th 2016, 10:24:39 pm] Database is connected ... nn
+[December 26th 2016, 10:24:39 pm] Database is connected ... nn
+[December 26th 2016, 10:54:39 pm] Database is connected ... nn
+[December 27th 2016, 1:55:06 am] POST /apiv1/activiteiten
+[December 27th 2016, 1:55:06 am] Database is connected ... nn
+[December 27th 2016, 1:55:06 am] Database is connected ... nn
+[December 27th 2016, 2:25:06 am] Database is connected ... nn
+[December 27th 2016, 2:29:04 am] GET /
+[December 27th 2016, 2:55:06 am] Database is connected ... nn
+[December 27th 2016, 7:54:26 am] POST /apiv1/activiteiten
+[December 27th 2016, 7:54:26 am] Database is connected ... nn
+[December 27th 2016, 7:54:26 am] Activity: Virgo Pubquiz!
+[December 27th 2016, 7:54:26 am] Activity: Bierweek !
+[December 27th 2016, 7:54:26 am] Activity: Nerf Gun Mania
+[December 27th 2016, 7:54:26 am] Activity: OT feest 3: Kroegentocht
+[December 27th 2016, 7:54:26 am] Activity: 1000 Palm 2016
+[December 27th 2016, 7:54:26 am] Activity: Woensdagstart
+[December 27th 2016, 7:54:26 am] Activity: Inauguratie S.V. Virgo
+[December 27th 2016, 7:54:26 am] Activity: Donderdagstart Periode 1
+[December 27th 2016, 7:54:26 am] Activity: ALV 31/05/16 S.V. Virgo
+[December 27th 2016, 7:54:26 am] Activity: OT feest 2: Crazy 88
+[December 27th 2016, 7:54:26 am] Activity: Afterstress Barbecue S.V. Virgo
+[December 27th 2016, 7:54:26 am] Activity: Meiweek
+[December 27th 2016, 7:54:26 am] Activity: S.V. Virgo Donderdag start periode 4
+[December 27th 2016, 7:54:26 am] Activity: VriMiBo
+[December 27th 2016, 7:54:26 am] Activity: Virgo karaoke avond!
+[December 27th 2016, 7:54:26 am] Activity: Open podium & leden veiling
+[December 27th 2016, 7:54:26 am] Activity: S.V. Virgo Cape Day
+[December 27th 2016, 7:54:26 am] Activity: S.V. Virgo Gender In The Blender
+[December 27th 2016, 7:54:26 am] Activity: OT feest 1: Derde Helft
+[December 27th 2016, 7:54:26 am] Activity: Kroegenstorm S.V. Virgo
+[December 27th 2016, 7:54:26 am] Activity: VriMiBo S.V. Virgo
+[December 27th 2016, 7:54:26 am] Activity: Bal Masque Shots
+[December 27th 2016, 7:54:26 am] Activity: Dinsdagstart Periode 3
+[December 27th 2016, 7:54:26 am] Activity: Pré-carnaval SV Virgo
+[December 27th 2016, 7:54:26 am] Activity: Algemene leden vergadering S.V. Virgo
+[December 27th 2016, 7:54:26 am] Activity: Virgo Decemberfest.
+[December 27th 2016, 7:54:27 am] Database is connected ... nn
+[December 27th 2016, 8:24:27 am] Database is connected ... nn
+[December 27th 2016, 9:59:06 am] POST /apiv1/activiteiten
+[December 27th 2016, 9:59:06 am] Database is connected ... nn
+[December 27th 2016, 9:59:06 am] Database is connected ... nn
+[December 27th 2016, 10:29:06 am] Database is connected ... nn
+[December 27th 2016, 11:54:54 am] POST /apiv1/activiteiten
+[December 27th 2016, 11:54:54 am] Database is connected ... nn
+[December 27th 2016, 11:54:54 am] Database is connected ... nn
+[December 27th 2016, 12:24:54 pm] Database is connected ... nn
+[December 27th 2016, 12:50:50 pm] POST /apiv1/activiteiten
+[December 27th 2016, 12:50:50 pm] Database is connected ... nn
+[December 27th 2016, 12:54:54 pm] Database is connected ... nn
+[December 27th 2016, 5:26:59 pm] POST /apiv1/activiteiten
+[December 27th 2016, 5:26:59 pm] Database is connected ... nn
+[December 27th 2016, 5:27:00 pm] Database is connected ... nn
+[December 27th 2016, 5:27:00 pm] Getting event: 1213312762082238
+[December 27th 2016, 5:27:00 pm] Adding new event: Virgo nieuwjaarsborrel
+[December 27th 2016, 5:27:00 pm] Database is connected ... nn
+[December 27th 2016, 5:55:33 pm] POST /apiv1/activiteiten
+[December 27th 2016, 5:55:33 pm] Database is connected ... nn
+[December 27th 2016, 5:55:33 pm] Activity: Virgo nieuwjaarsborrel
+[December 27th 2016, 5:57:00 pm] Database is connected ... nn
+[December 27th 2016, 5:57:00 pm] Getting event: 1213312762082238
+[December 27th 2016, 5:57:00 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 27th 2016, 5:57:00 pm] Database is connected ... nn
+[December 27th 2016, 6:27:00 pm] Database is connected ... nn
+[December 27th 2016, 6:27:00 pm] Getting event: 1213312762082238
+[December 27th 2016, 6:27:00 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 27th 2016, 6:27:00 pm] Database is connected ... nn
+[December 27th 2016, 7:32:11 pm] POST /apiv1/activiteiten
+[December 27th 2016, 7:32:11 pm] Database is connected ... nn
+[December 27th 2016, 7:32:11 pm] Activity: Virgo nieuwjaarsborrel
+[December 27th 2016, 7:32:11 pm] Database is connected ... nn
+[December 27th 2016, 7:32:11 pm] Getting event: 1213312762082238
+[December 27th 2016, 7:32:11 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 27th 2016, 7:32:11 pm] Database is connected ... nn
+[December 27th 2016, 8:02:11 pm] Database is connected ... nn
+[December 27th 2016, 8:02:11 pm] Getting event: 1213312762082238
+[December 27th 2016, 8:02:11 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 27th 2016, 8:02:11 pm] Database is connected ... nn
+[December 28th 2016, 6:27:22 pm] POST /apiv1/activiteiten
+[December 28th 2016, 6:27:22 pm] Database is connected ... nn
+[December 28th 2016, 6:27:22 pm] Activity: Virgo nieuwjaarsborrel
+[December 28th 2016, 6:27:22 pm] Database is connected ... nn
+[December 28th 2016, 6:27:22 pm] Getting event: 1213312762082238
+[December 28th 2016, 6:27:23 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 28th 2016, 6:27:23 pm] Database is connected ... nn
+[December 28th 2016, 6:36:58 pm] POST /apiv1/activiteiten
+[December 28th 2016, 6:36:58 pm] Database is connected ... nn
+[December 28th 2016, 6:36:58 pm] Activity: Virgo nieuwjaarsborrel
+[December 28th 2016, 6:57:23 pm] Database is connected ... nn
+[December 28th 2016, 6:57:23 pm] Getting event: 1213312762082238
+[December 28th 2016, 6:57:23 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 28th 2016, 6:57:23 pm] Database is connected ... nn
+[December 29th 2016, 12:25:34 am] POST /apiv1/activiteiten
+[December 29th 2016, 12:25:34 am] Database is connected ... nn
+[December 29th 2016, 12:25:34 am] Activity: Virgo nieuwjaarsborrel
+[December 29th 2016, 12:25:34 am] Database is connected ... nn
+[December 29th 2016, 12:25:34 am] Getting event: 1213312762082238
+[December 29th 2016, 12:25:34 am] Updating existing event: Virgo nieuwjaarsborrel
+[December 29th 2016, 12:25:34 am] Database is connected ... nn
+[December 29th 2016, 12:55:34 am] Database is connected ... nn
+[December 29th 2016, 12:55:34 am] Getting event: 1213312762082238
+[December 29th 2016, 12:55:34 am] Updating existing event: Virgo nieuwjaarsborrel
+[December 29th 2016, 12:55:34 am] Database is connected ... nn
+[December 29th 2016, 1:10:40 am] POST /apiv1/activiteiten
+[December 29th 2016, 1:10:40 am] Database is connected ... nn
+[December 29th 2016, 1:10:40 am] Activity: Virgo nieuwjaarsborrel
+[December 29th 2016, 1:25:34 am] Database is connected ... nn
+[December 29th 2016, 1:25:34 am] Getting event: 1213312762082238
+[December 29th 2016, 1:25:34 am] Updating existing event: Virgo nieuwjaarsborrel
+[December 29th 2016, 1:25:34 am] Database is connected ... nn
+[December 29th 2016, 1:27:55 am] POST /apiv1/activiteiten
+[December 29th 2016, 1:27:55 am] Database is connected ... nn
+[December 29th 2016, 1:27:55 am] Activity: Virgo nieuwjaarsborrel
+[December 29th 2016, 1:55:34 am] Database is connected ... nn
+[December 29th 2016, 1:55:34 am] Getting event: 1213312762082238
+[December 29th 2016, 1:55:34 am] Updating existing event: Virgo nieuwjaarsborrel
+[December 29th 2016, 1:55:34 am] Database is connected ... nn
+[December 29th 2016, 2:58:55 pm] POST /apiv1/activiteiten
+[December 29th 2016, 2:58:55 pm] Database is connected ... nn
+[December 29th 2016, 2:58:55 pm] Activity: Virgo nieuwjaarsborrel
+[December 29th 2016, 2:58:55 pm] Database is connected ... nn
+[December 29th 2016, 2:58:55 pm] Getting event: 1213312762082238
+[December 29th 2016, 2:58:55 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 29th 2016, 2:58:55 pm] Database is connected ... nn
+[December 29th 2016, 3:28:55 pm] Database is connected ... nn
+[December 29th 2016, 3:28:55 pm] Getting event: 1213312762082238
+[December 29th 2016, 3:28:55 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 29th 2016, 3:28:55 pm] Database is connected ... nn
+[December 29th 2016, 4:55:22 pm] POST /apiv1/activiteiten
+[December 29th 2016, 4:55:22 pm] Database is connected ... nn
+[December 29th 2016, 4:55:22 pm] Activity: Virgo nieuwjaarsborrel
+[December 29th 2016, 4:55:22 pm] Database is connected ... nn
+[December 29th 2016, 4:55:22 pm] Getting event: 1213312762082238
+[December 29th 2016, 4:55:22 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 29th 2016, 4:55:22 pm] Database is connected ... nn
+[December 29th 2016, 5:25:22 pm] Database is connected ... nn
+[December 29th 2016, 5:25:22 pm] Getting event: 1213312762082238
+[December 29th 2016, 5:25:22 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 29th 2016, 5:25:22 pm] Database is connected ... nn
+[December 30th 2016, 5:07:13 am] POST /apiv1/activiteiten
+[December 30th 2016, 5:07:13 am] Database is connected ... nn
+[December 30th 2016, 5:07:16 am] Database is connected ... nn
+[December 30th 2016, 5:07:16 am] Getting event: 1213312762082238
+[December 30th 2016, 5:07:17 am] Updating existing event: Virgo nieuwjaarsborrel
+[December 30th 2016, 5:07:17 am] Database is connected ... nn
+[December 30th 2016, 5:37:14 am] Database is connected ... nn
+[December 30th 2016, 5:37:14 am] Getting event: 1213312762082238
+[December 30th 2016, 5:37:14 am] Updating existing event: Virgo nieuwjaarsborrel
+[December 30th 2016, 5:37:14 am] Database is connected ... nn
+[December 30th 2016, 6:07:13 am] Database is connected ... nn
+[December 30th 2016, 6:07:13 am] Getting event: 1213312762082238
+[December 30th 2016, 6:07:13 am] Updating existing event: Virgo nieuwjaarsborrel
+[December 30th 2016, 6:07:13 am] Database is connected ... nn
+[December 30th 2016, 11:33:52 am] POST /apiv1/activiteiten
+[December 30th 2016, 11:33:52 am] Database is connected ... nn
+[December 30th 2016, 11:33:52 am] Database is connected ... nn
+[December 30th 2016, 11:33:52 am] Getting event: 1213312762082238
+[December 30th 2016, 11:33:52 am] Updating existing event: Virgo nieuwjaarsborrel
+[December 30th 2016, 11:33:52 am] Database is connected ... nn
+[December 30th 2016, 12:03:52 pm] Database is connected ... nn
+[December 30th 2016, 12:03:52 pm] Getting event: 1213312762082238
+[December 30th 2016, 12:03:52 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 30th 2016, 12:03:52 pm] Database is connected ... nn
+[December 30th 2016, 12:36:25 pm] POST /apiv1/activiteiten
+[December 30th 2016, 12:36:25 pm] Database is connected ... nn
+[December 30th 2016, 12:36:26 pm] Database is connected ... nn
+[December 30th 2016, 12:36:26 pm] Getting event: 1213312762082238
+[December 30th 2016, 12:36:26 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 30th 2016, 12:36:26 pm] Database is connected ... nn
+[December 30th 2016, 1:06:26 pm] Database is connected ... nn
+[December 30th 2016, 1:06:26 pm] Getting event: 1213312762082238
+[December 30th 2016, 1:06:26 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 30th 2016, 1:06:26 pm] Database is connected ... nn
+[December 30th 2016, 8:53:40 pm] POST /apiv1/activiteiten
+[December 30th 2016, 8:53:40 pm] Database is connected ... nn
+[December 30th 2016, 8:53:40 pm] Activity: Virgo nieuwjaarsborrel
+[December 30th 2016, 8:53:40 pm] Database is connected ... nn
+[December 30th 2016, 8:53:40 pm] Getting event: 1213312762082238
+[December 30th 2016, 8:53:40 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 30th 2016, 8:53:40 pm] Database is connected ... nn
+[December 30th 2016, 9:23:40 pm] Database is connected ... nn
+[December 30th 2016, 9:23:40 pm] Getting event: 1213312762082238
+[December 30th 2016, 9:23:40 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 30th 2016, 9:23:40 pm] Database is connected ... nn
+[December 31st 2016, 12:22:18 pm] POST /apiv1/activiteiten
+[December 31st 2016, 12:22:18 pm] Database is connected ... nn
+[December 31st 2016, 12:22:18 pm] Database is connected ... nn
+[December 31st 2016, 12:22:18 pm] Getting event: 1213312762082238
+[December 31st 2016, 12:22:18 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 31st 2016, 12:22:18 pm] Database is connected ... nn
+[December 31st 2016, 12:52:18 pm] Database is connected ... nn
+[December 31st 2016, 12:52:18 pm] Getting event: 1213312762082238
+[December 31st 2016, 12:52:18 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 31st 2016, 12:52:18 pm] Database is connected ... nn
+[December 31st 2016, 6:21:52 pm] POST /apiv1/activiteiten
+[December 31st 2016, 6:21:52 pm] Database is connected ... nn
+[December 31st 2016, 6:21:52 pm] Database is connected ... nn
+[December 31st 2016, 6:21:52 pm] Getting event: 1213312762082238
+[December 31st 2016, 6:21:52 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 31st 2016, 6:21:52 pm] Database is connected ... nn
+[December 31st 2016, 6:51:52 pm] Database is connected ... nn
+[December 31st 2016, 6:51:52 pm] Getting event: 1213312762082238
+[December 31st 2016, 6:51:52 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 31st 2016, 6:51:52 pm] Database is connected ... nn
+[December 31st 2016, 9:52:13 pm] GET /
+[December 31st 2016, 9:52:13 pm] Database is connected ... nn
+[December 31st 2016, 9:52:13 pm] Getting event: 1213312762082238
+[December 31st 2016, 9:52:13 pm] Updating existing event: Virgo nieuwjaarsborrel
+[December 31st 2016, 9:52:13 pm] Database is connected ... nn
+[January 1st 2017, 9:48:54 pm] POST /apiv1/activiteiten
+[January 1st 2017, 9:48:54 pm] Database is connected ... nn
+[January 1st 2017, 9:48:54 pm] Database is connected ... nn
+[January 1st 2017, 9:48:54 pm] Getting event: 1213312762082238
+[January 1st 2017, 9:48:55 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 1st 2017, 9:48:55 pm] Database is connected ... nn
+[January 1st 2017, 10:18:54 pm] Database is connected ... nn
+[January 1st 2017, 10:18:54 pm] Getting event: 1213312762082238
+[January 1st 2017, 10:18:55 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 1st 2017, 10:18:55 pm] Database is connected ... nn
+[January 2nd 2017, 5:16:11 pm] POST /apiv1/activiteiten
+[January 2nd 2017, 5:16:11 pm] Database is connected ... nn
+[January 2nd 2017, 5:16:11 pm] Activity: Virgo nieuwjaarsborrel
+[January 2nd 2017, 5:16:11 pm] Database is connected ... nn
+[January 2nd 2017, 5:16:11 pm] Getting event: 1213312762082238
+[January 2nd 2017, 5:16:11 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 2nd 2017, 5:16:11 pm] Database is connected ... nn
+[January 2nd 2017, 5:46:11 pm] Database is connected ... nn
+[January 2nd 2017, 5:46:11 pm] Getting event: 1213312762082238
+[January 2nd 2017, 5:46:11 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 2nd 2017, 5:46:11 pm] Database is connected ... nn
+[January 2nd 2017, 6:16:58 pm] POST /apiv1/activiteiten
+[January 2nd 2017, 6:16:58 pm] Database is connected ... nn
+[January 2nd 2017, 6:16:58 pm] Database is connected ... nn
+[January 2nd 2017, 6:16:58 pm] Getting event: 1213312762082238
+[January 2nd 2017, 6:16:58 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 2nd 2017, 6:16:58 pm] Database is connected ... nn
+[January 2nd 2017, 6:28:48 pm] POST /apiv1/activiteiten
+[January 2nd 2017, 6:28:48 pm] Database is connected ... nn
+[January 2nd 2017, 6:29:35 pm] POST /apiv1/activiteiten
+[January 2nd 2017, 6:29:35 pm] Database is connected ... nn
+[January 2nd 2017, 6:29:35 pm] Activity: Virgo Pubquiz!
+[January 2nd 2017, 6:29:35 pm] Activity: Bierweek !
+[January 2nd 2017, 6:29:35 pm] Activity: Nerf Gun Mania
+[January 2nd 2017, 6:29:35 pm] Activity: OT feest 3: Kroegentocht
+[January 2nd 2017, 6:29:35 pm] Activity: 1000 Palm 2016
+[January 2nd 2017, 6:29:35 pm] Activity: Woensdagstart
+[January 2nd 2017, 6:29:35 pm] Activity: Inauguratie S.V. Virgo
+[January 2nd 2017, 6:29:35 pm] Activity: Donderdagstart Periode 1
+[January 2nd 2017, 6:29:35 pm] Activity: ALV 31/05/16 S.V. Virgo
+[January 2nd 2017, 6:29:35 pm] Activity: OT feest 2: Crazy 88
+[January 2nd 2017, 6:29:35 pm] Activity: Afterstress Barbecue S.V. Virgo
+[January 2nd 2017, 6:29:35 pm] Activity: Meiweek
+[January 2nd 2017, 6:29:35 pm] Activity: S.V. Virgo Donderdag start periode 4
+[January 2nd 2017, 6:29:35 pm] Activity: VriMiBo
+[January 2nd 2017, 6:29:35 pm] Activity: Virgo karaoke avond!
+[January 2nd 2017, 6:29:35 pm] Activity: Open podium & leden veiling
+[January 2nd 2017, 6:29:35 pm] Activity: S.V. Virgo Cape Day
+[January 2nd 2017, 6:29:35 pm] Activity: S.V. Virgo Gender In The Blender
+[January 2nd 2017, 6:29:35 pm] Activity: OT feest 1: Derde Helft
+[January 2nd 2017, 6:29:35 pm] Activity: Kroegenstorm S.V. Virgo
+[January 2nd 2017, 6:29:35 pm] Activity: VriMiBo S.V. Virgo
+[January 2nd 2017, 6:29:35 pm] Activity: Bal Masque Shots
+[January 2nd 2017, 6:29:35 pm] Activity: Dinsdagstart Periode 3
+[January 2nd 2017, 6:29:35 pm] Activity: Pré-carnaval SV Virgo
+[January 2nd 2017, 6:29:35 pm] Activity: Algemene leden vergadering S.V. Virgo
+[January 2nd 2017, 6:29:35 pm] Activity: Virgo Decemberfest.
+[January 2nd 2017, 6:29:35 pm] Activity: Virgo nieuwjaarsborrel
+[January 2nd 2017, 6:46:58 pm] Database is connected ... nn
+[January 2nd 2017, 6:46:58 pm] Getting event: 1213312762082238
+[January 2nd 2017, 6:46:58 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 2nd 2017, 6:46:58 pm] Database is connected ... nn
+[January 2nd 2017, 8:48:47 pm] POST /apiv1/activiteiten
+[January 2nd 2017, 8:48:47 pm] Database is connected ... nn
+[January 2nd 2017, 8:48:47 pm] Activity: Virgo Pubquiz!
+[January 2nd 2017, 8:48:47 pm] Activity: Bierweek !
+[January 2nd 2017, 8:48:47 pm] Activity: Nerf Gun Mania
+[January 2nd 2017, 8:48:47 pm] Activity: OT feest 3: Kroegentocht
+[January 2nd 2017, 8:48:47 pm] Activity: 1000 Palm 2016
+[January 2nd 2017, 8:48:47 pm] Activity: Woensdagstart
+[January 2nd 2017, 8:48:47 pm] Activity: Inauguratie S.V. Virgo
+[January 2nd 2017, 8:48:47 pm] Activity: Donderdagstart Periode 1
+[January 2nd 2017, 8:48:47 pm] Activity: ALV 31/05/16 S.V. Virgo
+[January 2nd 2017, 8:48:47 pm] Activity: OT feest 2: Crazy 88
+[January 2nd 2017, 8:48:47 pm] Activity: Afterstress Barbecue S.V. Virgo
+[January 2nd 2017, 8:48:47 pm] Activity: Meiweek
+[January 2nd 2017, 8:48:47 pm] Activity: S.V. Virgo Donderdag start periode 4
+[January 2nd 2017, 8:48:47 pm] Activity: VriMiBo
+[January 2nd 2017, 8:48:47 pm] Activity: Virgo karaoke avond!
+[January 2nd 2017, 8:48:47 pm] Activity: Open podium & leden veiling
+[January 2nd 2017, 8:48:47 pm] Activity: S.V. Virgo Cape Day
+[January 2nd 2017, 8:48:47 pm] Activity: S.V. Virgo Gender In The Blender
+[January 2nd 2017, 8:48:47 pm] Activity: OT feest 1: Derde Helft
+[January 2nd 2017, 8:48:47 pm] Activity: Kroegenstorm S.V. Virgo
+[January 2nd 2017, 8:48:47 pm] Activity: VriMiBo S.V. Virgo
+[January 2nd 2017, 8:48:47 pm] Activity: Bal Masque Shots
+[January 2nd 2017, 8:48:47 pm] Activity: Dinsdagstart Periode 3
+[January 2nd 2017, 8:48:47 pm] Activity: Pré-carnaval SV Virgo
+[January 2nd 2017, 8:48:47 pm] Activity: Algemene leden vergadering S.V. Virgo
+[January 2nd 2017, 8:48:47 pm] Activity: Virgo Decemberfest.
+[January 2nd 2017, 8:48:47 pm] Activity: Virgo nieuwjaarsborrel
+[January 2nd 2017, 8:48:47 pm] Database is connected ... nn
+[January 2nd 2017, 8:48:47 pm] Getting event: 1213312762082238
+[January 2nd 2017, 8:48:48 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 2nd 2017, 8:48:48 pm] Database is connected ... nn
+[January 2nd 2017, 9:18:47 pm] Database is connected ... nn
+[January 2nd 2017, 9:18:47 pm] Getting event: 1213312762082238
+[January 2nd 2017, 9:18:47 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 2nd 2017, 9:18:47 pm] Database is connected ... nn
+[January 2nd 2017, 10:41:06 pm] POST /apiv1/activiteiten
+[January 2nd 2017, 10:41:06 pm] Database is connected ... nn
+[January 2nd 2017, 10:41:06 pm] Activity: Virgo nieuwjaarsborrel
+[January 2nd 2017, 10:41:06 pm] Database is connected ... nn
+[January 2nd 2017, 10:41:06 pm] Getting event: 1213312762082238
+[January 2nd 2017, 10:41:06 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 2nd 2017, 10:41:06 pm] Database is connected ... nn
+[January 2nd 2017, 11:11:06 pm] Database is connected ... nn
+[January 2nd 2017, 11:11:06 pm] Getting event: 1213312762082238
+[January 2nd 2017, 11:11:06 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 2nd 2017, 11:11:06 pm] Database is connected ... nn
+[January 3rd 2017, 12:27:57 pm] POST /apiv1/activiteiten
+[January 3rd 2017, 12:27:57 pm] Database is connected ... nn
+[January 3rd 2017, 12:27:57 pm] Database is connected ... nn
+[January 3rd 2017, 12:27:57 pm] Getting event: 1213312762082238
+[January 3rd 2017, 12:27:57 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 3rd 2017, 12:27:57 pm] Database is connected ... nn
+[January 3rd 2017, 12:57:57 pm] Database is connected ... nn
+[January 3rd 2017, 12:57:57 pm] Getting event: 1213312762082238
+[January 3rd 2017, 12:57:57 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 3rd 2017, 12:57:57 pm] Database is connected ... nn
+[January 4th 2017, 10:24:54 am] POST /apiv1/activiteiten
+[January 4th 2017, 10:24:54 am] Database is connected ... nn
+[January 4th 2017, 10:24:54 am] Database is connected ... nn
+[January 4th 2017, 10:24:54 am] Getting event: 1213312762082238
+[January 4th 2017, 10:24:54 am] Updating existing event: Virgo nieuwjaarsborrel
+[January 4th 2017, 10:24:54 am] Database is connected ... nn
+[January 4th 2017, 10:54:54 am] Database is connected ... nn
+[January 4th 2017, 10:54:54 am] Getting event: 1213312762082238
+[January 4th 2017, 10:54:54 am] Updating existing event: Virgo nieuwjaarsborrel
+[January 4th 2017, 10:54:54 am] Database is connected ... nn
+[January 4th 2017, 11:10:08 am] POST /apiv1/activiteiten
+[January 4th 2017, 11:10:08 am] Database is connected ... nn
+[January 4th 2017, 11:10:08 am] Activity: Virgo Pubquiz!
+[January 4th 2017, 11:10:08 am] Activity: Bierweek !
+[January 4th 2017, 11:10:08 am] Activity: Nerf Gun Mania
+[January 4th 2017, 11:10:08 am] Activity: OT feest 3: Kroegentocht
+[January 4th 2017, 11:10:08 am] Activity: 1000 Palm 2016
+[January 4th 2017, 11:10:08 am] Activity: Woensdagstart
+[January 4th 2017, 11:10:08 am] Activity: Inauguratie S.V. Virgo
+[January 4th 2017, 11:10:08 am] Activity: Donderdagstart Periode 1
+[January 4th 2017, 11:10:08 am] Activity: ALV 31/05/16 S.V. Virgo
+[January 4th 2017, 11:10:08 am] Activity: OT feest 2: Crazy 88
+[January 4th 2017, 11:10:08 am] Activity: Afterstress Barbecue S.V. Virgo
+[January 4th 2017, 11:10:08 am] Activity: Meiweek
+[January 4th 2017, 11:10:08 am] Activity: S.V. Virgo Donderdag start periode 4
+[January 4th 2017, 11:10:08 am] Activity: VriMiBo
+[January 4th 2017, 11:10:08 am] Activity: Virgo karaoke avond!
+[January 4th 2017, 11:10:08 am] Activity: Open podium & leden veiling
+[January 4th 2017, 11:10:08 am] Activity: S.V. Virgo Cape Day
+[January 4th 2017, 11:10:08 am] Activity: S.V. Virgo Gender In The Blender
+[January 4th 2017, 11:10:08 am] Activity: OT feest 1: Derde Helft
+[January 4th 2017, 11:10:08 am] Activity: Kroegenstorm S.V. Virgo
+[January 4th 2017, 11:10:08 am] Activity: VriMiBo S.V. Virgo
+[January 4th 2017, 11:10:08 am] Activity: Bal Masque Shots
+[January 4th 2017, 11:10:08 am] Activity: Dinsdagstart Periode 3
+[January 4th 2017, 11:10:08 am] Activity: Pré-carnaval SV Virgo
+[January 4th 2017, 11:10:08 am] Activity: Algemene leden vergadering S.V. Virgo
+[January 4th 2017, 11:10:08 am] Activity: Virgo Decemberfest.
+[January 4th 2017, 11:10:08 am] Activity: Virgo nieuwjaarsborrel
+[January 4th 2017, 11:24:54 am] Database is connected ... nn
+[January 4th 2017, 11:24:54 am] Getting event: 1213312762082238
+[January 4th 2017, 11:24:54 am] Updating existing event: Virgo nieuwjaarsborrel
+[January 4th 2017, 11:24:54 am] Database is connected ... nn
+[January 5th 2017, 7:50:32 pm] POST /apiv1/activiteiten
+[January 5th 2017, 7:50:32 pm] Database is connected ... nn
+[January 5th 2017, 7:50:32 pm] Database is connected ... nn
+[January 5th 2017, 7:50:32 pm] Getting event: 1213312762082238
+[January 5th 2017, 7:50:32 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 5th 2017, 7:50:32 pm] Database is connected ... nn
+[January 5th 2017, 8:20:32 pm] Database is connected ... nn
+[January 5th 2017, 8:20:32 pm] Getting event: 1213312762082238
+[January 5th 2017, 8:20:32 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 5th 2017, 8:20:32 pm] Database is connected ... nn
+[January 5th 2017, 9:34:36 pm] POST /apiv1/activiteiten
+[January 5th 2017, 9:34:36 pm] Database is connected ... nn
+[January 5th 2017, 9:34:36 pm] Database is connected ... nn
+[January 5th 2017, 9:34:36 pm] Getting event: 1213312762082238
+[January 5th 2017, 9:34:36 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 5th 2017, 9:34:36 pm] Database is connected ... nn
+[January 5th 2017, 10:04:36 pm] Database is connected ... nn
+[January 5th 2017, 10:04:36 pm] Getting event: 1213312762082238
+[January 5th 2017, 10:04:36 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 5th 2017, 10:04:36 pm] Database is connected ... nn
+[January 6th 2017, 2:36:29 pm] POST /apiv1/activiteiten
+[January 6th 2017, 2:36:29 pm] Database is connected ... nn
+[January 6th 2017, 2:36:29 pm] Activity: Virgo Pubquiz!
+[January 6th 2017, 2:36:29 pm] Activity: Bierweek !
+[January 6th 2017, 2:36:29 pm] Activity: Nerf Gun Mania
+[January 6th 2017, 2:36:29 pm] Activity: OT feest 3: Kroegentocht
+[January 6th 2017, 2:36:29 pm] Activity: 1000 Palm 2016
+[January 6th 2017, 2:36:29 pm] Activity: Woensdagstart
+[January 6th 2017, 2:36:29 pm] Activity: Inauguratie S.V. Virgo
+[January 6th 2017, 2:36:29 pm] Activity: Donderdagstart Periode 1
+[January 6th 2017, 2:36:29 pm] Activity: ALV 31/05/16 S.V. Virgo
+[January 6th 2017, 2:36:29 pm] Activity: OT feest 2: Crazy 88
+[January 6th 2017, 2:36:29 pm] Activity: Afterstress Barbecue S.V. Virgo
+[January 6th 2017, 2:36:29 pm] Activity: Meiweek
+[January 6th 2017, 2:36:29 pm] Activity: S.V. Virgo Donderdag start periode 4
+[January 6th 2017, 2:36:29 pm] Activity: VriMiBo
+[January 6th 2017, 2:36:29 pm] Activity: Virgo karaoke avond!
+[January 6th 2017, 2:36:29 pm] Activity: Open podium & leden veiling
+[January 6th 2017, 2:36:29 pm] Activity: S.V. Virgo Cape Day
+[January 6th 2017, 2:36:29 pm] Activity: S.V. Virgo Gender In The Blender
+[January 6th 2017, 2:36:29 pm] Activity: OT feest 1: Derde Helft
+[January 6th 2017, 2:36:29 pm] Activity: Kroegenstorm S.V. Virgo
+[January 6th 2017, 2:36:29 pm] Activity: VriMiBo S.V. Virgo
+[January 6th 2017, 2:36:29 pm] Activity: Bal Masque Shots
+[January 6th 2017, 2:36:29 pm] Activity: Dinsdagstart Periode 3
+[January 6th 2017, 2:36:29 pm] Activity: Pré-carnaval SV Virgo
+[January 6th 2017, 2:36:29 pm] Activity: Algemene leden vergadering S.V. Virgo
+[January 6th 2017, 2:36:29 pm] Activity: Virgo Decemberfest.
+[January 6th 2017, 2:36:29 pm] Activity: Virgo nieuwjaarsborrel
+[January 6th 2017, 2:36:29 pm] Database is connected ... nn
+[January 6th 2017, 2:36:29 pm] Getting event: 1213312762082238
+[January 6th 2017, 2:36:29 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 6th 2017, 2:36:29 pm] Database is connected ... nn
+[January 6th 2017, 3:06:29 pm] Database is connected ... nn
+[January 6th 2017, 3:06:29 pm] Getting event: 1213312762082238
+[January 6th 2017, 3:06:29 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 6th 2017, 3:06:29 pm] Database is connected ... nn
+[January 6th 2017, 3:11:19 pm] POST /apiv1/activiteiten
+[January 6th 2017, 3:11:19 pm] Database is connected ... nn
+[January 6th 2017, 3:36:29 pm] Database is connected ... nn
+[January 6th 2017, 3:36:29 pm] Getting event: 1213312762082238
+[January 6th 2017, 3:36:29 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 6th 2017, 3:36:29 pm] Database is connected ... nn
+[January 6th 2017, 7:21:24 pm] POST /apiv1/activiteiten
+[January 6th 2017, 7:21:24 pm] Database is connected ... nn
+[January 6th 2017, 7:21:25 pm] Database is connected ... nn
+[January 6th 2017, 7:21:25 pm] Getting event: 1213312762082238
+[January 6th 2017, 7:21:25 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 6th 2017, 7:21:25 pm] Database is connected ... nn
+[January 6th 2017, 7:51:25 pm] Database is connected ... nn
+[January 6th 2017, 7:51:25 pm] Getting event: 1213312762082238
+[January 6th 2017, 7:51:25 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 6th 2017, 7:51:25 pm] Database is connected ... nn
+[January 7th 2017, 7:06:39 am] Database is connected ... nn
+[January 7th 2017, 7:06:39 am] Getting event: 1213312762082238
+[January 7th 2017, 7:06:39 am] POST /apiv1/activiteiten
+[January 7th 2017, 7:06:39 am] Database is connected ... nn
+[January 7th 2017, 7:06:39 am] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 7:06:39 am] Database is connected ... nn
+[January 7th 2017, 7:36:39 am] Database is connected ... nn
+[January 7th 2017, 7:36:39 am] Getting event: 1213312762082238
+[January 7th 2017, 7:36:39 am] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 7:36:39 am] Database is connected ... nn
+[January 7th 2017, 12:40:17 pm] POST /apiv1/activiteiten
+[January 7th 2017, 12:40:17 pm] Database is connected ... nn
+[January 7th 2017, 12:40:17 pm] Database is connected ... nn
+[January 7th 2017, 12:40:17 pm] Getting event: 1213312762082238
+[January 7th 2017, 12:40:18 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 12:40:18 pm] Database is connected ... nn
+[January 7th 2017, 1:10:18 pm] Database is connected ... nn
+[January 7th 2017, 1:10:18 pm] Getting event: 1213312762082238
+[January 7th 2017, 1:10:18 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 1:10:18 pm] Database is connected ... nn
+[January 7th 2017, 1:29:48 pm] POST /apiv1/activiteiten
+[January 7th 2017, 1:29:48 pm] Database is connected ... nn
+[January 7th 2017, 1:29:48 pm] Activity: Virgo Pubquiz!
+[January 7th 2017, 1:29:48 pm] Activity: Bierweek !
+[January 7th 2017, 1:29:48 pm] Activity: Nerf Gun Mania
+[January 7th 2017, 1:29:48 pm] Activity: OT feest 3: Kroegentocht
+[January 7th 2017, 1:29:48 pm] Activity: 1000 Palm 2016
+[January 7th 2017, 1:29:48 pm] Activity: Woensdagstart
+[January 7th 2017, 1:29:48 pm] Activity: Inauguratie S.V. Virgo
+[January 7th 2017, 1:29:48 pm] Activity: Donderdagstart Periode 1
+[January 7th 2017, 1:29:48 pm] Activity: ALV 31/05/16 S.V. Virgo
+[January 7th 2017, 1:29:48 pm] Activity: OT feest 2: Crazy 88
+[January 7th 2017, 1:29:48 pm] Activity: Afterstress Barbecue S.V. Virgo
+[January 7th 2017, 1:29:48 pm] Activity: Meiweek
+[January 7th 2017, 1:29:48 pm] Activity: S.V. Virgo Donderdag start periode 4
+[January 7th 2017, 1:29:48 pm] Activity: VriMiBo
+[January 7th 2017, 1:29:48 pm] Activity: Virgo karaoke avond!
+[January 7th 2017, 1:29:48 pm] Activity: Open podium & leden veiling
+[January 7th 2017, 1:29:48 pm] Activity: S.V. Virgo Cape Day
+[January 7th 2017, 1:29:48 pm] Activity: S.V. Virgo Gender In The Blender
+[January 7th 2017, 1:29:48 pm] Activity: OT feest 1: Derde Helft
+[January 7th 2017, 1:29:48 pm] Activity: Kroegenstorm S.V. Virgo
+[January 7th 2017, 1:29:48 pm] Activity: VriMiBo S.V. Virgo
+[January 7th 2017, 1:29:48 pm] Activity: Bal Masque Shots
+[January 7th 2017, 1:29:48 pm] Activity: Dinsdagstart Periode 3
+[January 7th 2017, 1:29:48 pm] Activity: Pré-carnaval SV Virgo
+[January 7th 2017, 1:29:48 pm] Activity: Algemene leden vergadering S.V. Virgo
+[January 7th 2017, 1:29:48 pm] Activity: Virgo Decemberfest.
+[January 7th 2017, 1:29:48 pm] Activity: Virgo nieuwjaarsborrel
+[January 7th 2017, 1:40:18 pm] Database is connected ... nn
+[January 7th 2017, 1:40:18 pm] Getting event: 1213312762082238
+[January 7th 2017, 1:40:18 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 1:40:18 pm] Database is connected ... nn
+[January 7th 2017, 2:28:04 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:28:04 pm] Database is connected ... nn
+[January 7th 2017, 2:28:05 pm] Database is connected ... nn
+[January 7th 2017, 2:28:05 pm] Getting event: 1213312762082238
+[January 7th 2017, 2:28:05 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 2:28:05 pm] Database is connected ... nn
+[January 7th 2017, 2:30:47 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:30:47 pm] Database is connected ... nn
+[January 7th 2017, 2:33:14 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:33:14 pm] Database is connected ... nn
+[January 7th 2017, 2:33:14 pm] Activity: Virgo Pubquiz!
+[January 7th 2017, 2:33:14 pm] Activity: Bierweek !
+[January 7th 2017, 2:33:14 pm] Activity: Nerf Gun Mania
+[January 7th 2017, 2:33:14 pm] Activity: OT feest 3: Kroegentocht
+[January 7th 2017, 2:33:14 pm] Activity: 1000 Palm 2016
+[January 7th 2017, 2:33:14 pm] Activity: Woensdagstart
+[January 7th 2017, 2:33:14 pm] Activity: Inauguratie S.V. Virgo
+[January 7th 2017, 2:33:14 pm] Activity: Donderdagstart Periode 1
+[January 7th 2017, 2:33:14 pm] Activity: ALV 31/05/16 S.V. Virgo
+[January 7th 2017, 2:33:14 pm] Activity: OT feest 2: Crazy 88
+[January 7th 2017, 2:33:14 pm] Activity: Afterstress Barbecue S.V. Virgo
+[January 7th 2017, 2:33:14 pm] Activity: Meiweek
+[January 7th 2017, 2:33:14 pm] Activity: S.V. Virgo Donderdag start periode 4
+[January 7th 2017, 2:33:14 pm] Activity: VriMiBo
+[January 7th 2017, 2:33:14 pm] Activity: Virgo karaoke avond!
+[January 7th 2017, 2:33:14 pm] Activity: Open podium & leden veiling
+[January 7th 2017, 2:33:14 pm] Activity: S.V. Virgo Cape Day
+[January 7th 2017, 2:33:14 pm] Activity: S.V. Virgo Gender In The Blender
+[January 7th 2017, 2:33:14 pm] Activity: OT feest 1: Derde Helft
+[January 7th 2017, 2:33:14 pm] Activity: Kroegenstorm S.V. Virgo
+[January 7th 2017, 2:33:14 pm] Activity: VriMiBo S.V. Virgo
+[January 7th 2017, 2:33:14 pm] Activity: Bal Masque Shots
+[January 7th 2017, 2:33:14 pm] Activity: Dinsdagstart Periode 3
+[January 7th 2017, 2:33:14 pm] Activity: Pré-carnaval SV Virgo
+[January 7th 2017, 2:33:14 pm] Activity: Algemene leden vergadering S.V. Virgo
+[January 7th 2017, 2:33:14 pm] Activity: Virgo Decemberfest.
+[January 7th 2017, 2:33:14 pm] Activity: Virgo nieuwjaarsborrel
+[January 7th 2017, 2:34:14 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:34:14 pm] Database is connected ... nn
+[January 7th 2017, 2:35:14 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:35:14 pm] Database is connected ... nn
+[January 7th 2017, 2:37:24 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:37:24 pm] Database is connected ... nn
+[January 7th 2017, 2:38:24 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:38:24 pm] Database is connected ... nn
+[January 7th 2017, 2:39:24 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:39:24 pm] Database is connected ... nn
+[January 7th 2017, 2:40:24 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:40:24 pm] Database is connected ... nn
+[January 7th 2017, 2:41:24 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:41:24 pm] Database is connected ... nn
+[January 7th 2017, 2:42:24 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:42:24 pm] Database is connected ... nn
+[January 7th 2017, 2:48:19 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:48:19 pm] Database is connected ... nn
+[January 7th 2017, 2:49:19 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:49:19 pm] Database is connected ... nn
+[January 7th 2017, 2:50:20 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:50:20 pm] Database is connected ... nn
+[January 7th 2017, 2:51:19 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:51:19 pm] Database is connected ... nn
+[January 7th 2017, 2:52:19 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:52:19 pm] Database is connected ... nn
+[January 7th 2017, 2:53:19 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:53:19 pm] Database is connected ... nn
+[January 7th 2017, 2:54:19 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:54:19 pm] Database is connected ... nn
+[January 7th 2017, 2:55:19 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:55:19 pm] Database is connected ... nn
+[January 7th 2017, 2:56:19 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:56:19 pm] Database is connected ... nn
+[January 7th 2017, 2:57:19 pm] POST /apiv1/activiteiten
+[January 7th 2017, 2:57:19 pm] Database is connected ... nn
+[January 7th 2017, 2:58:05 pm] Database is connected ... nn
+[January 7th 2017, 2:58:05 pm] Getting event: 1213312762082238
+[January 7th 2017, 2:58:05 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 2:58:05 pm] Database is connected ... nn
+[January 7th 2017, 3:03:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:03:03 pm] Database is connected ... nn
+[January 7th 2017, 3:04:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:04:03 pm] Database is connected ... nn
+[January 7th 2017, 3:05:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:05:03 pm] Database is connected ... nn
+[January 7th 2017, 3:06:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:06:03 pm] Database is connected ... nn
+[January 7th 2017, 3:07:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:07:03 pm] Database is connected ... nn
+[January 7th 2017, 3:08:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:08:03 pm] Database is connected ... nn
+[January 7th 2017, 3:09:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:09:03 pm] Database is connected ... nn
+[January 7th 2017, 3:10:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:10:03 pm] Database is connected ... nn
+[January 7th 2017, 3:11:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:11:03 pm] Database is connected ... nn
+[January 7th 2017, 3:12:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:12:03 pm] Database is connected ... nn
+[January 7th 2017, 3:13:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:13:03 pm] Database is connected ... nn
+[January 7th 2017, 3:14:03 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:14:03 pm] Database is connected ... nn
+[January 7th 2017, 3:15:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:15:05 pm] Database is connected ... nn
+[January 7th 2017, 3:16:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:16:05 pm] Database is connected ... nn
+[January 7th 2017, 3:17:04 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:17:04 pm] Database is connected ... nn
+[January 7th 2017, 3:18:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:18:05 pm] Database is connected ... nn
+[January 7th 2017, 3:19:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:19:05 pm] Database is connected ... nn
+[January 7th 2017, 3:20:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:20:05 pm] Database is connected ... nn
+[January 7th 2017, 3:21:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:21:05 pm] Database is connected ... nn
+[January 7th 2017, 3:22:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:22:05 pm] Database is connected ... nn
+[January 7th 2017, 3:23:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:23:05 pm] Database is connected ... nn
+[January 7th 2017, 3:24:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:24:05 pm] Database is connected ... nn
+[January 7th 2017, 3:25:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:25:05 pm] Database is connected ... nn
+[January 7th 2017, 3:26:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:26:05 pm] Database is connected ... nn
+[January 7th 2017, 3:27:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:27:05 pm] Database is connected ... nn
+[January 7th 2017, 3:28:05 pm] Database is connected ... nn
+[January 7th 2017, 3:28:05 pm] Getting event: 1213312762082238
+[January 7th 2017, 3:28:05 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 3:28:05 pm] Database is connected ... nn
+[January 7th 2017, 3:28:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:28:05 pm] Database is connected ... nn
+[January 7th 2017, 3:29:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:29:05 pm] Database is connected ... nn
+[January 7th 2017, 3:30:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:30:05 pm] Database is connected ... nn
+[January 7th 2017, 3:31:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:31:05 pm] Database is connected ... nn
+[January 7th 2017, 3:32:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:32:05 pm] Database is connected ... nn
+[January 7th 2017, 3:33:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:33:05 pm] Database is connected ... nn
+[January 7th 2017, 3:34:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:34:05 pm] Database is connected ... nn
+[January 7th 2017, 3:35:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:35:05 pm] Database is connected ... nn
+[January 7th 2017, 3:36:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:36:05 pm] Database is connected ... nn
+[January 7th 2017, 3:37:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:37:05 pm] Database is connected ... nn
+[January 7th 2017, 3:38:05 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:38:05 pm] Database is connected ... nn
+[January 7th 2017, 3:40:16 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:40:16 pm] Database is connected ... nn
+[January 7th 2017, 3:44:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:44:01 pm] Database is connected ... nn
+[January 7th 2017, 3:45:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:45:01 pm] Database is connected ... nn
+[January 7th 2017, 3:46:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:46:01 pm] Database is connected ... nn
+[January 7th 2017, 3:47:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:47:01 pm] Database is connected ... nn
+[January 7th 2017, 3:48:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:48:01 pm] Database is connected ... nn
+[January 7th 2017, 3:49:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:49:01 pm] Database is connected ... nn
+[January 7th 2017, 3:50:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:50:01 pm] Database is connected ... nn
+[January 7th 2017, 3:51:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:51:01 pm] Database is connected ... nn
+[January 7th 2017, 3:52:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:52:01 pm] Database is connected ... nn
+[January 7th 2017, 3:53:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:53:01 pm] Database is connected ... nn
+[January 7th 2017, 3:54:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:54:01 pm] Database is connected ... nn
+[January 7th 2017, 3:54:05 pm] GET /apiv1/pubs
+[January 7th 2017, 3:54:05 pm] Database is connected ...
+[January 7th 2017, 3:54:05 pm] TypeError: Cannot read property 'toString' of undefined
+    at /home/user/services/virgonode/VirgoNode/routes_apiv1.js:149:49
+    at Array.forEach (native)
+    at Query._callback (/home/user/services/virgonode/VirgoNode/routes_apiv1.js:143:18)
+    at Query.Sequence.end (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Sequence.js:86:24)
+    at Query._handleFinalResultPacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Query.js:144:8)
+    at Query.EofPacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Query.js:128:8)
+    at Protocol._parsePacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+    at Parser.write (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Parser.js:74:12)
+    at Protocol.write (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/Connection.js:109:28)
+[January 7th 2017, 3:55:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:55:01 pm] Database is connected ... nn
+[January 7th 2017, 3:56:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:56:01 pm] Database is connected ... nn
+[January 7th 2017, 3:56:29 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:56:29 pm] Incompatible date format
+[January 7th 2017, 3:57:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:57:01 pm] Database is connected ... nn
+[January 7th 2017, 3:57:32 pm] GET /apiv1/pubs
+[January 7th 2017, 3:57:32 pm] Database is connected ...
+[January 7th 2017, 3:57:32 pm] TypeError: Cannot read property 'toString' of undefined
+    at /home/user/services/virgonode/VirgoNode/routes_apiv1.js:149:49
+    at Array.forEach (native)
+    at Query._callback (/home/user/services/virgonode/VirgoNode/routes_apiv1.js:143:18)
+    at Query.Sequence.end (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Sequence.js:86:24)
+    at Query._handleFinalResultPacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Query.js:144:8)
+    at Query.EofPacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Query.js:128:8)
+    at Protocol._parsePacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+    at Parser.write (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Parser.js:74:12)
+    at Protocol.write (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/Connection.js:109:28)
+[January 7th 2017, 3:58:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:58:01 pm] Database is connected ... nn
+[January 7th 2017, 3:58:05 pm] Database is connected ... nn
+[January 7th 2017, 3:58:05 pm] Getting event: 1213312762082238
+[January 7th 2017, 3:58:05 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 3:58:05 pm] Database is connected ... nn
+[January 7th 2017, 3:59:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 3:59:01 pm] Database is connected ... nn
+[January 7th 2017, 3:59:32 pm] GET /apiv1/pubs
+[January 7th 2017, 3:59:32 pm] Database is connected ...
+[January 7th 2017, 3:59:32 pm] TypeError: Cannot read property 'toString' of undefined
+    at /home/user/services/virgonode/VirgoNode/routes_apiv1.js:149:49
+    at Array.forEach (native)
+    at Query._callback (/home/user/services/virgonode/VirgoNode/routes_apiv1.js:143:18)
+    at Query.Sequence.end (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Sequence.js:86:24)
+    at Query._handleFinalResultPacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Query.js:144:8)
+    at Query.EofPacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Query.js:128:8)
+    at Protocol._parsePacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+    at Parser.write (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Parser.js:74:12)
+    at Protocol.write (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/Connection.js:109:28)
+[January 7th 2017, 4:00:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 4:00:01 pm] Database is connected ... nn
+[January 7th 2017, 4:01:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 4:01:01 pm] Database is connected ... nn
+[January 7th 2017, 4:01:39 pm] POST /apiv1/activiteiten
+[January 7th 2017, 4:01:39 pm] Database is connected ... nn
+[January 7th 2017, 4:01:39 pm] Activity: Virgo Pubquiz!
+[January 7th 2017, 4:01:39 pm] Activity: Bierweek !
+[January 7th 2017, 4:01:39 pm] Activity: Nerf Gun Mania
+[January 7th 2017, 4:01:39 pm] Activity: OT feest 3: Kroegentocht
+[January 7th 2017, 4:01:39 pm] Activity: 1000 Palm 2016
+[January 7th 2017, 4:01:39 pm] Activity: Woensdagstart
+[January 7th 2017, 4:01:39 pm] Activity: Inauguratie S.V. Virgo
+[January 7th 2017, 4:01:39 pm] Activity: Donderdagstart Periode 1
+[January 7th 2017, 4:01:39 pm] Activity: ALV 31/05/16 S.V. Virgo
+[January 7th 2017, 4:01:39 pm] Activity: OT feest 2: Crazy 88
+[January 7th 2017, 4:01:39 pm] Activity: Afterstress Barbecue S.V. Virgo
+[January 7th 2017, 4:01:39 pm] Activity: Meiweek
+[January 7th 2017, 4:01:39 pm] Activity: S.V. Virgo Donderdag start periode 4
+[January 7th 2017, 4:01:39 pm] Activity: VriMiBo
+[January 7th 2017, 4:01:39 pm] Activity: Virgo karaoke avond!
+[January 7th 2017, 4:01:39 pm] Activity: Open podium & leden veiling
+[January 7th 2017, 4:01:39 pm] Activity: S.V. Virgo Cape Day
+[January 7th 2017, 4:01:39 pm] Activity: S.V. Virgo Gender In The Blender
+[January 7th 2017, 4:01:39 pm] Activity: OT feest 1: Derde Helft
+[January 7th 2017, 4:01:39 pm] Activity: Kroegenstorm S.V. Virgo
+[January 7th 2017, 4:01:39 pm] Activity: VriMiBo S.V. Virgo
+[January 7th 2017, 4:01:39 pm] Activity: Bal Masque Shots
+[January 7th 2017, 4:01:39 pm] Activity: Dinsdagstart Periode 3
+[January 7th 2017, 4:01:39 pm] Activity: Pré-carnaval SV Virgo
+[January 7th 2017, 4:01:39 pm] Activity: Algemene leden vergadering S.V. Virgo
+[January 7th 2017, 4:01:39 pm] Activity: Virgo Decemberfest.
+[January 7th 2017, 4:01:39 pm] Activity: Virgo nieuwjaarsborrel
+[January 7th 2017, 4:02:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 4:02:01 pm] Database is connected ... nn
+[January 7th 2017, 4:03:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 4:03:01 pm] Database is connected ... nn
+[January 7th 2017, 4:03:49 pm] Adding routes...
+[January 7th 2017, 4:03:49 pm] Routes added
+[January 7th 2017, 4:03:49 pm] Listening server on port 8060
+[January 7th 2017, 4:03:50 pm] Database is connected ... nn
+[January 7th 2017, 4:03:50 pm] Getting event: 1213312762082238
+[January 7th 2017, 4:03:50 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 4:03:50 pm] Database is connected ... nn
+[January 7th 2017, 4:04:01 pm] POST /apiv1/activiteiten
+[January 7th 2017, 4:04:01 pm] Database is connected ... nn
+[January 7th 2017, 4:04:15 pm] GET /apiv1/pubs
+[January 7th 2017, 4:04:15 pm] Database is connected ...
+[January 7th 2017, 4:04:15 pm] TypeError: Cannot read property 'toString' of undefined
+    at /home/user/services/virgonode/VirgoNode/routes_apiv1.js:149:49
+    at Array.forEach (native)
+    at Query._callback (/home/user/services/virgonode/VirgoNode/routes_apiv1.js:143:18)
+    at Query.Sequence.end (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Sequence.js:86:24)
+    at Query._handleFinalResultPacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Query.js:144:8)
+    at Query.EofPacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/sequences/Query.js:128:8)
+    at Protocol._parsePacket (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+    at Parser.write (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Parser.js:74:12)
+    at Protocol.write (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/home/user/services/virgonode/VirgoNode/node_modules/mysql/lib/Connection.js:109:28)
+[January 7th 2017, 4:05:59 pm] Adding routes...
+[January 7th 2017, 4:06:00 pm] Routes added
+[January 7th 2017, 4:06:00 pm] Listening server on port 8060
+[January 7th 2017, 4:06:00 pm] Database is connected ... nn
+[January 7th 2017, 4:06:00 pm] Getting event: 1213312762082238
+[January 7th 2017, 4:06:00 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 4:06:00 pm] Database is connected ... nn
+[January 7th 2017, 4:06:00 pm] POST /apiv1/activiteiten
+[January 7th 2017, 4:06:00 pm] Database is connected ... nn
+[January 7th 2017, 4:06:10 pm] GET /apiv1/pubs
+[January 7th 2017, 4:06:10 pm] Database is connected ...
+[January 7th 2017, 4:07:13 pm] Adding routes...
+[January 7th 2017, 4:07:13 pm] Routes added
+[January 7th 2017, 4:07:13 pm] Listening server on port 8060
+[January 7th 2017, 4:07:14 pm] Database is connected ... nn
+[January 7th 2017, 4:07:14 pm] Getting event: 1213312762082238
+[January 7th 2017, 4:07:14 pm] Updating existing event: Virgo nieuwjaarsborrel
+[January 7th 2017, 4:07:14 pm] Database is connected ... nn
+[January 7th 2017, 4:07:14 pm] POST /apiv1/activiteiten
+[January 7th 2017, 4:07:14 pm] Database is connected ... nn
+[January 7th 2017, 4:07:19 pm] GET /apiv1/pubs
+[January 7th 2017, 4:07:19 pm] Database is connected ...
+[January 7th 2017, 4:08:14 pm] POST /apiv1/activiteiten
+[January 7th 2017, 4:08:14 pm] Database is connected ... nn
+[January 7th 2017, 4:09:14 pm] POST /apiv1/activiteiten
+[January 7th 2017, 4:09:14 pm] Database is connected ... nn
+[January 7th 2017, 4:10:14 pm] POST /apiv1/activiteiten
+[January 7th 2017, 4:10:14 pm] Database is connected ... nn
