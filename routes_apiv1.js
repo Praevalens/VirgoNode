@@ -145,7 +145,7 @@ router.post('/pubs', function (req, res) {
         });
 
         try {
-            dbConnection.query('SELECT * FROM SVVirgo.pubs WHERE updated_date > \''+update_date+'\'', function (err, rows, fields) {
+            dbConnection.query('SELECT * FROM SVVirgo.pubs WHERE updated > \''+update_date+'\'', function (err, rows, fields) {
                 if (err) throw err;
 
                 var response = [];
