@@ -72,51 +72,67 @@ router.post('/activiteiten', function (req, res) {
     }
 });
 
-router.get('/offers', function (req, res) {
-    dbConnection = sql.createConnection({
-                        host     : settings.dbHost,
-                        user     : settings.dbUser,
-                        password : settings.dbPassword,
-                        dateStrings: 'date'
-                    });
-    dbConnection.connect(function(err){
-        if(!err) {
-            console.log("Database is connected ...");
-        } else {
-            console.log("Error connecting database ...");
-        }
-    });
+router.post('/offers', function (req, res) {
+    var update_date = req.body.update_date ||  '';
 
-    try {
-        dbConnection.query('SELECT * FROM SVVirgo.offers', function (err, rows, fields) {
-            if (err) throw err;
-
-            var response = [];
-
-            rows.forEach(function (row) {
-
-                var offer = {
-                    pubid: row.pubid.toString(),
-                    offer: row.offer.toString(),
-                    expires: row.expiration.toString()
-                };
-                response.push(offer);
-            });
-
-            res.status(200);
-            res.json(response);
-
-        });
-    } catch (err){
-        console.log("Database timeout error");
+    if (update_date == '') {
+        console.log("Incompatible date format");
         res.status(500);
         res.json({
             "status": 500,
-            "message": "Database timeout error."
+            "message": "Incompatible date format"
         });
-        throw err;
+    } else {
+        dbConnection = sql.createConnection({
+            host     : settings.dbHost,
+            user     : settings.dbUser,
+            password : settings.dbPassword,
+            dateStrings: 'date'
+        });
+
+        dbConnection.connect(function(err){
+            if(!err) {
+                console.log("Database is connected ...");
+            } else {
+                console.log("Error connecting database ...");
+            }
+        });
+
+        try {
+            dbConnection.query('SELECT * FROM SVVirgo.offers WHERE updated > \''+update_date+'\'', function (err, rows, fields) {
+                if (err) throw err;
+
+                var response = [];
+
+                rows.forEach(function (row) {
+
+                    var offer = {
+                        id: row.id.toString(),
+                        pubid: row.pubid.toString(),
+                        title: row.title.toString(),
+                        image: row.image.toString(),
+                        offer: row.offer.toString(),
+                        published: row.published.toString()
+                    };
+                    response.push(offer);
+                });
+
+                res.status(200);
+                res.json(response);
+
+            });
+        } catch (err){
+            console.log("Database timeout error");
+            res.status(500);
+            res.json({
+                "status": 500,
+                "message": "Database timeout error."
+            });
+            throw err;
+        }
+        dbConnection.end();
     }
-    dbConnection.end();
+
 });
 
 router.post('/pubs', function (req, res) {
