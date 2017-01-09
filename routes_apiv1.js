@@ -110,7 +110,7 @@ router.post('/offers', function (req, res) {
                         id: row.id.toString(),
                         pubid: row.pubid.toString(),
                         title: row.title.toString(),
-                        image: row.image.toString(),
+                        image: row.image==null?"":row.image.toString(),
                         offer: row.offer.toString(),
                         published: row.published.toString()
                     };
