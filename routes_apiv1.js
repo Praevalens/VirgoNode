@@ -122,7 +122,43 @@ router.post('/activiteiten/sort', function (req, res) {
 
                     upcoming.push(activity);
                 });
-                response.push(upcoming)
+                response.push(upcoming);
+
+                try {
+                    dbConnection.query('SELECT * FROM SVVirgo.activities WHERE end < CURRENT_DATE() AND end > \''+ events_after +'\' ORDER BY start DESC', function (err, rows, fields) {
+                        if (err) throw err;
+
+                        rows.forEach(function (row) {
+                            console.log("Activity: " + row.title.toString());
+                            var past = [];
+
+                            var activity = {
+                                id: row.id.toString(),
+                                name: row.title.toString(),
+                                description: row.description.toString(),
+                                image: row.image.toString(),
+                                startDate: row.start.toString(),
+                                endDate: row.end.toString(),
+                                price: row.price.toString(),
+                                facebook: row.facebook.toString(),
+                                location: row.location.toString()
+                            };
+
+                            past.push(activity);
+                        });
+                        response.push(past);
+                        res.status(200);
+                        res.json(response);
+                    });
+                } catch (err) {
+                    console.log("Database timeout error");
+                    res.status(500);
+                    res.json({
+                        "status": 500,
+                        "message": "Database timeout error."
+                    });
+                    throw err;
+                }
             });
         } catch (err) {
             console.log("Database timeout error");
@@ -134,44 +170,6 @@ router.post('/activiteiten/sort', function (req, res) {
             throw err;
         }
 
-        try {
-            dbConnection.query('SELECT * FROM SVVirgo.activities WHERE end < CURRENT_DATE() AND end > \''+ events_after +'\' ORDER BY start DESC', function (err, rows, fields) {
-                if (err) throw err;
-
-                rows.forEach(function (row) {
-                    console.log("Activity: " + row.title.toString());
-                    var past = [];
-
-                    var activity = {
-                        id: row.id.toString(),
-                        name: row.title.toString(),
-                        description: row.description.toString(),
-                        image: row.image.toString(),
-                        startDate: row.start.toString(),
-                        endDate: row.end.toString(),
-                        price: row.price.toString(),
-                        facebook: row.facebook.toString(),
-                        location: row.location.toString()
-                    };
-
-                    past.push(activity);
-                });
-                response.push(past)
-            });
-        } catch (err) {
-            console.log("Database timeout error");
-            res.status(500);
-            res.json({
-                "status": 500,
-                "message": "Database timeout error."
-            });
-            throw err;
-        }
-
-        //console.log("JSON: " + JSON.stringify(response));
-
-        res.status(200);
-        res.json(response);
     }
 });
 
