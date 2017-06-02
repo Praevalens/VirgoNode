@@ -1,8 +1,8 @@
 {
 	"secretkey" 	: "FmonCSGripEnergyMonitor-123454321AbCd-",
 	"dbHost"		: "localhost",
-	"dbUser"		: "root",
-	"dbPassword"	: "Access@mysqldb2016",
-	"webPort"		: "8060",
+	"dbUser"		: "svvirgo",
+	"dbPassword"	: "6PSWBDsGh0pAi7cB",
+	"webPort"		: "8090",
 	"project_description" : "This is the REST API for Virgo student society."
 }
