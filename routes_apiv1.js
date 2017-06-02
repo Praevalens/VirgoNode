@@ -8,6 +8,7 @@ var dbConnection;
 
 router.post('/activiteiten', function (req, res) {
     var update_date = req.body.update_date ||  '';
+    var sort = req.body.sort ||  'false';
 
     if (update_date == '') {
         console.log("Incompatible date format");
@@ -32,7 +33,7 @@ router.post('/activiteiten', function (req, res) {
         });
 
         try {
-            dbConnection.query('SELECT * FROM SVVirgo.activities WHERE updated > \''+update_date+'\'', function (err, rows, fields) {
+            dbConnection.query('SELECT * FROM SVVirgo.activities WHERE updated > \''+update_date+'\' ORDER BY start DESC', function (err, rows, fields) {
                 if (err) throw err;
 
                 var response = [];
