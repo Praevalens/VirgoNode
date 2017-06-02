@@ -103,10 +103,10 @@ router.post('/activiteiten/sort', function (req, res) {
         try {
             dbConnection.query('SELECT * FROM SVVirgo.activities WHERE end >= CURRENT_DATE() ORDER BY start ASC', function (err, rows, fields) {
                 if (err) throw err;
+                var upcoming = [];
 
                 rows.forEach(function (row) {
                     console.log("Activity: " + row.title.toString());
-                    var upcoming = [];
 
                     var activity = {
                         id: row.id.toString(),
@@ -127,10 +127,10 @@ router.post('/activiteiten/sort', function (req, res) {
                 try {
                     dbConnection.query('SELECT * FROM SVVirgo.activities WHERE end < CURRENT_DATE() AND end > \''+ events_after +'\' ORDER BY start DESC', function (err, rows, fields) {
                         if (err) throw err;
+                        var past = [];
 
                         rows.forEach(function (row) {
                             console.log("Activity: " + row.title.toString());
-                            var past = [];
 
                             var activity = {
                                 id: row.id.toString(),
@@ -146,6 +146,7 @@ router.post('/activiteiten/sort', function (req, res) {
 
                             past.push(activity);
                         });
+                        
                         response.push(past);
                         res.status(200);
                         res.json(response);
