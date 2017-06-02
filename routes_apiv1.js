@@ -73,7 +73,7 @@ router.post('/activiteiten', function (req, res) {
     }
 });
 
-router.get('/activiteiten/sort', function (req, res) {
+router.post('/activiteiten/sort', function (req, res) {
     var events_after = req.body.events_after ||  '';
 
     if (update_date == '') {
